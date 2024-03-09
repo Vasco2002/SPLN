@@ -1,0 +1,2323 @@
+PM : Privação Material
+IPIPI : Índice de Preços de Importações de Produtos Industriais
+AESSST : Agência Europeia para a Segurança Social e a Saúde no Trabalho
+OPUE : Outros Países da União Europeia
+DOCT : Documento
+PCD : Planeamento, Coordenação e Difusão
+UNTERM : United Nations Multilingual Terminology Database
+GTAESI : Grupo de Trabalho de Acompanhamento das Estatísticas para a Sociedade da Informação
+FCCN : Fundação para a Computação Científica Nacional
+MADRP : Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+MAMAOT : Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+MAM : Ministério da Agricultura e do Mar
+MAFDR : Ministério da Agricultura, Florestas e Desenvolvimento Rural
+PRACE : Programa de Reestruturação da Administração Central do Estado
+INFOLINE : Serviço de Informação On-Line do INE
+CI : Comércio Interno
+CI : Comércio Internacional
+SDSL : Symmetric Digital Subscriber Line
+SGA : Sistema de Gestão Ambiental
+EMAS : Eco Managemend and Audit Scheme
+MCTES : Ministério da Ciência, Tecnologia e Ensino Superior
+NEST : Novas Empresas de Suporte Tecnológico
+ETI : Equivalente a Tempo Integral
+PAPCC : Provas de Aptidão Pedagógica e Capacidade Científica
+PPED : Provas Públicas de Equivalência a Doutoramento
+ANDEP : Associação Nacional de Dentistas Portugueses
+CEVES : Centro Europeu para a Vigilância Epidemiológica da SIDA
+CID : Classificação Internacional de Doenças e Causas de Morte
+CRS : Complexos Relacionados com SIDA
+CVEDT : Centro de Vigilância Epidemiológica das Doenças Transmissíveis
+DDO : Doenças de Declaração Obrigatória
+INFARMED : Autoridade Nacional do Medicamento e Produtos de Saúde, IP
+OE : Ordem dos Enfermeiros
+OF : Ordem dos Farmacêuticos
+OMD : Ordem dos Médicos Dentistas
+OMV : Ordem dos Médicos Veterinários
+PA : Portadores Assintomáticos
+SCTS : Sindicato das Ciências e Tecnologias da Saúde
+SIFAP : Sindicato Nacional dos Profissionais de Farmácia e Paramédicos
+SINPROFARM : Sindicato Nacional dos Profissionais de Farmácia
+OSIC : Observatório da Sociedade da Informação e Conhecimento
+SPO : Serviço de Psicologia e Orientação
+RA : Região Autónoma
+VB : Visual Basic
+ITJICH : Inqúerito à Taxa de Juro ímplicita no Crédito à Habitação
+ACRRU : Área Crítica de Recuperação e Reconversão Urbanística
+ERP : Enterprise Resource Planning
+GPEARI/MC : Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Educação
+SNPSS : Sindicato Nacional dos Profissionais do Serviço Social
+SVIG : Sistema de Vigilância do Programa de Tuberculose
+OPSS : Observatório Português dos Sistemas de Saúde
+PCS : Participação Cultural e Social
+DES/CV : Departamento de Estatísticas Demográficas e Sociais/Serviço de Estatísticas das Condições de Vida
+SAS : Statistics Analysis System
+RDIS : Rede Digital com Integração de Serviços
+AM-2001 : Amostra-Mãe 2001
+SINE : Sistema Integrado de Nomenclaturas Estatísticas
+CAO : Centro de Atividades Ocupacionais
+EDP : Energias de Portugal, SA
+ETAR : Estação de Tratamento de Águas Residuais
+ETC : Equivalente a Tempo Completo
+FOB : Franco a Bordo
+FRA : Forward Rate Agreement
+FSE : Fornecimentos e Serviços Externos
+ISFLSF : Instituição Sem fins Lucrativos ao Serviço das Famílias
+OPEP : Organização dos Países Exportadores de Petróleo
+PALP : Países Africanos de Língua Portuguesa
+PDE : Procedimento do Défice Excessivo
+PDM : Plano Diretor Municipal
+PEOT : Plano Especial do Ordenamento do Território
+PROT : Plano Regional do Ordenamento do Território
+RSU : Resíduos Sólidos Urbanos
+CVR : Comissão Vitivinícola Regional
+APUS : Administrações Públicas
+CPA : Classificação Estatística dos Produtos por Atividades
+EFJR : Escalões de Forma Jurídica
+INPI : Instituto Nacional da Propriedade Industrial
+FGUE : Ficheiro Geral de Unidades Estatísticas
+IAN/TT : Instituto dos Arquivos Nacionais/Torre do Tombo
+CIMI : Código do Imposto Municipal sobre Imóveis
+CIMT : Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+CNAEF : Classificação Nacional das Áreas de Educação e Formação
+Interreg III : Programa de Iniciativa Comunitária
+ECPC : Estado das Culturas e Previsão das Colheitas
+ME : Ministério da Educação
+MEC : Ministério da Educação e Ciência
+IEC : Inquérito aos Estabelecimentos Comerciais
+ARU : Áreas de Reabilitação Urbana
+DGAE : Direção-Geral das Atividades Económicas
+IECom : Inquérito às Empresas de Comércio
+GTECS : Grupo de Trabalho sobre Estatísticas do Comércio e Serviços
+AEP : Anuário Estatístico de Portugal
+EP : Empresa Pública
+DRE : Direção Regional de Estatística
+IPPE : Inquérito à Produção e Emissão de Eletricidade
+DRI : Departamento de Recolha de Informação
+DRT : Direção Regional de Turismo
+IVE : Imputation and Variance Estimation
+VE : Valores Efetivos
+EDGE : Enhanced Data Rates for GSM/DCS Evolution
+AER : Anuário Estatísco Regional
+AEV : Área de Exposição e Venda
+DE : Domestic extration
+DMI : Direct material input
+DPO : Emissões Internas de Materiais
+ITRM : Inquérito ao Transporte Rodoviário de Mercadorias
+DMC : Domestic material consumption
+NAS : Net additions to stock
+CPA 2008 : Classificação Estatística dos Produtos por Atividade na Comunidade Europeia, versão 2008
+IAE : Inquérito Anual às Empresas
+UNODC : United Nations Office on Drugs and Crime
+IVITIM : Inquérito à Vitimização
+EPSS : European Program of Social Statistics
+APAV : Associação Portuguesa de Apoio à Vítima
+DG JLS : Directorate General of Justice, Freedom and Security
+DES/PE : Departamento de Estatísticas Demográficas e Sociais/Equipa de Projetos Especiais
+SGMAI : Secretaria Geral do Ministério da Administração Interna
+DGAI : Direção-Geral de Administração Interna
+CASI : Computer assisted self-interview
+DG ECFIN : Directorate-General for Economic and Financial Affairs
+NCA : Normas de Contabilidade Ajustadas
+EP : Equipa de projeto
+SNRIP : Secretariado Nacional para a Reabilitação e Integração da Pessoa com Deficiência
+FIM : Fundo de Investimento Mobiliário
+SGFI : Sociedade Gestora de Fundos de Investimento
+FII : Fundo de Investimento Imobiliário
+SCIE : Sistema de Contas Integradas das Empresas
+SME : Serviço de Métodos Estatísticos
+NGF : Núcleo de gestão de ficheiros
+ND : NÚCLEO DE DESENVOLVIMENTO
+NCES : NÚCLEO DE CLASSIFICAÇÕES ECONÓMICAS E  SOCIAIS
+NCPST : Núcleo de classificações de produtos e serviços transacionáveis
+GEO : Serviço de geoinformação
+CC-PT : Classificação Portuguesa das Construções
+IDP : Instituto do Desporto de Portugal
+FTP : File Transfer Protocol
+IMAP : Internet Mail Access Protocol
+LAN : Local Area Network
+TLS : Transport Layer Security
+SSL : Secure Socket Layers
+Ac. : Acórdão
+ACTVB : Acordo Coletivo do Trabalho Vertical dos Bancários
+ADSE : Direção Geral de Proteção Social aos Funcionários e Agentes da Administração Pública
+APEL : Associação Portuguesa de Editores e Livreiros
+ASP : Associação Portuguesa de Seguros
+BCE : Banco Central Europeu
+BEBP : Boletim Estatístico do Banco de Portugal
+BMBCE : Boletim Mensa do Banco Central Europeu
+BN : Biblioteca Nacional
+BNDP : Banco Nacional de Dados das Pescas
+CAE Rev. 2 : Classificação Portuguesa das Atividades Económicas, Revisão 2
+CAE Rev. 2.1 : Classificação Portuguesa das Atividades Económicas, Revisão 2. 1
+CAM : Código das Associações Mutualistas
+CC : Código Civil
+CCA : Código Civil Anotado
+CCCAM : Caixa Central de Crédito Agrícola Mútuo
+CCJ : Código das Custas Judiciais
+CC : Código Comercial
+CC : Código Cooperativo
+CCPMCN : Convenção para a Conservação do Património Mundial, Cultural e Natural
+CDADC : Código do Direito de Autor e Direitos Conexos
+CE : Código da Estrada
+CEA : Contas Económicas da Agricultura
+CEI : Comité Eletrotécnico Internacional
+CELPA : Associação da Indústria Papeleira
+CEN : Comité Europeu de Normalização
+CEOT/CEM : Carta Europeia do Ordenamento do Território, Conferência Europeia dos Ministros
+CES : Contas Económicas da Silvicultura
+CESAP : Carta de Equipamentos e Serviços de Apoio à População
+CESD : Centro Europeu de Estatística para os Países em Via de Desenvolvimento
+CGD : Caixa Geral de Depósitos
+CI : Consumo Intermédio
+CIET : Conferência Internacional dos Estaticistas do Trabalho
+DMSI/DA : Departamento de Metodologia e Sistemas de Informação/Serviço de Desenvolvimento Aplicacional
+CMVMC : Custo das Mercadorias Vendidas e das Matérias Consumidas
+CN : Código de Notariado
+CNBS : Classificação Nacional de Bens e Serviços
+CMVM : Comissão do Mercado de Valores Mobiliários
+INDEP : Indústrias Nacionais de Defesa
+CP : Código Penal
+CPA : Código do Procedimento Administrativo
+CEPAUE : Classificação Estatística de Produtos por Atividade na União Europeia
+CPC : Código de Processo Civil
+CPP : Código de Processo Penal
+CPT : Código de Processo de Trabalho
+CRC : Código de Registo Civil
+CRP : Constituição da República  Portuguesa
+CSC : Código das Sociedades Comerciais
+CT : Código de Trabalho
+CTOC : Câmara dos Técnicos Oficiais de Contas
+CTT : Correios de Portugal, SA
+CVRVV : Comissão Vitivinícola da Região dos Vinhos Verdes
+DAPP : Departamento de Avaliação Prospetiva e Planeamento
+DCN : Departamento de Contas Nacionais
+DDP : Departamento de Difusão e Promoção
+DI/NPAC : Serviço de Difusão/Núcleo de Promoção e Apoio ao Cliente
+DEAP : Departamento de estatísticas da agricultura e pescas
+DReg. : Decreto Regulamentar
+DECP : DEPARTAMENTO DE ESTATÍSTICAS CENSITÁRIAS E DA POPULAÇÃO
+DEE : Departamento de Estatísticas Económicas
+DEFB&C : Dicionário Económico Financeiro, Bernardo & Colli
+DEIS : Departamento de Estatísticas da Indústria e Serviços
+DES : Departamento de Estatísticas Demográficas e Sociais
+DETEFP : Departamento de Estatística do Trabalho, Emprego e Formação Profissional
+DFA : Departamento financeiro e administrativo
+DGAS : Direção-Geral de Ação Social
+DGC : Direção-Geral do Comércio
+DGCP : Direção-Geral da Contabilidade Pública
+DGRF : Direção-Geral dos Recursos Florestais
+DGOTDU : Direção-Geral do Ordenamento do Território e Desenvolvimento Urbano
+DGPA/MADRP : Direção-Geral das Pescas e Aquicultura
+DGRSS : Direção-Geral dos Regimes de Segurança Social
+DGS : Direção-Geral de Saúde
+DGS/MS : Direção-Geral de Saúde/Ministério da Saúde
+DGT : Direção-Geral do Turismo
+TP : Turismo de Portugal, I.P.
+DDP : Dicionário de Derecho Privado
+DJ : Dicionário Jurídico
+DL : Dicionário do Livro
+DTA : Dicionário de Terminologia Arquivista
+DIR : DIREÇÃO
+DJ : DEPARTAMENTO JURíDICO
+DL : Decreto-Lei
+DMSI : Departamento de Metodologia e de Sistemas de Informação
+DME : Departamento de Metodologia Estatística
+PGA : Prova Geral de Acesso
+DR : Diário da República
+DRA : DIREÇÃO REGIONAL DO ALENTEJO
+DRALG : DIREÇÃO REGIONAL DO ALGARVE
+DRC : Delegação Regional de Coimbra
+DRC : DIREÇÃO REGIONAL DO CENTRO
+DRH : DEPARTAMENTO DE RECURSOS HUMANOS
+DAG/ARH : Departamento de Administração e Gestão/Área de Recursos Humanos
+DRLVT : DIREÇÃO REGIONAL DE LISBOA E VALE DO TEJO
+DRN : DIREÇÃO REGIONAL DO NORTE
+DSEC : DEPARTAMENTO DE SÍNTESE ECONÓMICA E DE CONJUNTURA
+DSII : DEPARTAMENTO DE SISTEMAS DE INFORMAÇÃO E INFORMÁTICA
+DSI : Departamento de Sistemas de Informação
+EBE : Excedente Bruto de Exploração
+ECCO : European Confederation of Conservator-restore's Organization
+EFTA : European Free Trade Association
+ESEBC : Estatutos do Sistema Europeu de Bancos Centrais
+ESEBCNCE : Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu
+EUROSTAT : Statistical Office of the European Union
+EUROSTAT : Serviço de Estatística das Comunidades Europeias
+FBCF : Formação Bruta de Capital Fixo
+FCG : Fundação Calouste Gulbenkian
+FIR : Folha de Informação Rápida
+FJR : Forma Jurídica
+FMI : Fundo Monetário Internacional
+FUE : Ficheiro de unidades estatísticas
+FUEDR : Ficheiro de Unidades Estatísticas disponível para difusão nas Direções Regionais
+PPA : Fundos de Poupanças e Ações
+GET : Glossário de Estatísticas dos Transportes
+GFCGD : Glossário Financeiro da Caixa Geral de Depósitos
+GFT/EY : Glossary of Financial Terms - Euromoney Yearbook
+GTIC : Glossário Tecnologias de Informação e Comunicação
+GMGF : Glossário para Medicina Geral e Familiar
+GT : Grupo de Trabalho
+GTALV : Grupo de Trabalho de Aprendizagem ao Longo da Vida
+GTEC : Grupo de Trabalho de Estatísticas da Cultura
+GTECE : Grupo de Trabalho de Estatísticas do Comércio Externo
+GTECIOS : Grupo de Trabalho de Estatísticas do Comércio Interno e Outros Serviços
+GTED : Grupo Trabalho de Estatísticas da Demografia
+GTEDR : Grupo de Trabalho de Estatísticas do Desporto e Recreio
+GTEJ : Grupo de Trabalho de Estatísticas da Justiça
+GTEMF : Grupo de Trabalho de Estatísticas Monetárias e Financeiras
+GTES : Grupo de Trabalho de Estatísticas da Saúde
+GTET : Grupo Trabalho de Estatísticas do Trabalho
+I&D : Investigação e Desenvolvimento
+IBL : Instituto da Biblioteca e do Livro
+IBS : Indústria de Bens e Serviços
+ICEP : Investimentos, Comércio e Turismo de Portugal
+ICT : Índice de Custo do Trabalho
+ID : Imagem de Difusão
+IE : Inquérito ao Emprego
+IEFP : Instituto do Emprego e da Formação Profissional
+IEH : Inquérito às Empresas Harmonizado
+IFAP : Instituto de Financiamento da Agricultura e Pescas, I.P.
+IFADAP : Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e das Pescas
+IGFSS : Instituto de Gestão Financeira da Segurança Social
+IGIFS : Instituto de Gestão Informática e Financeira da Saúde
+IHPC : Índice Harmonizado de Preços no Consumidor
+INE : Instituto Nacional de Estatística
+INESIG : Sistema de Informação Geográfica do INE
+INGA : Instituto Nacional de Garantia Agrícola
+INTERBOLSA : Introdução aos Mercados de Futuros e Opções, Bolsa de Derivados do Porto
+IPC : Índice de Preços no Consumidor
+IPM : Instituto Português de Museus
+IQ : Inquérito de Qualidade
+ISP : Instituto de Seguros de Portugal
+JOCE : Jornal Oficial das Comunidades Europeias
+kg : Quilograma
+km : Quilómetro
+LBSE : Lei de Bases do Sistema Educativo
+LFDU : Legislação Fundamental de Direito do Urbanismo
+lkm : Lugar-quilómetro
+LOTM : Lei da Organização Tutelar de Menores
+DRPMA : Desenvolvimento Rural e das Pescas, Ministério da Agricultura
+MC : Ministério da Cultura
+MCEAS : Manual de Contas Económicas da Agricultura e da Silvicultura
+MCT : Ministério da Ciência e da Tecnologia
+MSESS : Ministério da Solidariedade, Emprego e Segurança Social
+MSSS : Ministério da Solidariedade e da Segurança Social
+MTSSS : Ministério do Trabalho, Solidariedade e Segurança Social
+MESS : Ministério do Emprego e Segurança Social
+MJ : MINISTÉRIO DA JUSTIÇA
+MOIT : Manual da Organização Internacional do Trabalho
+MPC/BGRI : Manual de Procedimentos da Construção da Base Geográfica de Referênciação de Informação de 2001
+PW : Password
+NACE : Nomenclatura Estatística das Atividades Económicas na Comunidade Europeia
+NCN : Nomenclatura das Contas Nacionais
+NMPS : Número Médio de Pessoas ao Serviço
+NPS : Número de Pessoas ao Serviço
+NUTS : Nomenclatura das Unidades Territoriais para Fins Estatísticos
+OAC/MC : Observatório das Atividades Culturais/Ministério da Cultura
+OCDE : Organização para a Cooperação e Desenvolvimento Económico
+OCT/MCT : Observatório das Ciências e das Tecnologias/Ministério da Ciência e da Tecnologia
+OIT : Organização Internacional do Trabalho
+OM : Ordem dos Médicos
+OMS : Organização Mundial de Saúde
+OMT : Organização Mundial do Turismo
+ONU : Organização das Nações Unidas
+OROC : Ordem dos Revisores Oficiais de Contas
+PCES : Plano de Contas para as Empresas de Seguros
+Pechchcp : Programa das Estatísticas Correntes da Habitação, Comité sobre Habitação, Construção e Planeamento
+pkm : Passageiro-quilómetro
+POC : Plano Oficial de Contabilidade
+QRE : Quadro de Recursos e Emprego
+RCM : Resolução do Conselho de Ministro
+RCPHCE : Recomendações para os Censos da População e da Habitação, 1990 na região da Comissão Económica
+REL : Rendimento Empresarial Líquido
+RFLGEC : Relatório Final do Leadership Group sobre as Estatísticas Culturais
+RGEU : Regulamento Geral das Edificações Urbanas
+RPM : Rede Portuguesa de Museus
+SCI : Serviço de Comunicação e Imagem
+SEC : Sistema Europeu de Contas Nacionais e Regionais
+SEF : Serviço de Estrangeiros e Fronteiras
+SEN : Sistema Estatístico Nacional
+SGPS : Sociedade Gestora de Participações Sociais
+SIIP : Sistema Integrado de Informação das Pescas
+SIGINE : Sistema de Informação de Gestão do INE
+SPA : Sociedade Portuguesa de Autores
+SRE : Saldo de Respostas Extremas
+SS : Serviços Sociais
+SSCSE : Serviço de Secretariado do Conselho Superior de Estatística
+t : Tonelada
+TIC : Tecnologias de Informação e Comunicação
+tkm : Tonelada-quilómetro
+TUE : Tratado da União Europeia
+UE : União Europeia
+UEM : União Económica e Monetária
+URIEH : Universo de Referência dos Inquéritos às Empresas
+VAB : Valor Acrescentado Bruto
+VABcf : Valor Acrescentado Bruto a custo de fatores
+VABpm : Valor Acrescentado Bruto a preços de mercado
+VAL : Valor Acrescentado Líquido
+VBP : Valor Bruto da Produção
+VCS : Valores Corrigidos da Sazonalidade
+vkm : Veículo-quilómetro
+VVN : Volume de Negócios
+WONCA : World Organization of  National Colleges, Academies and Academic Associations of General Practitioners/Family Physicians
+PC : Computador pessoal
+NRRA 09 : Núcleo de recolha do recenseamento agrícola de 2009
+ED : Entrevistador Digitador
+EE : Entrevistador Exclusivo
+TIR : Técnico de Informação Regional
+NIF : Número de Identificação Fiscal
+NIC : Normas Internacionais de Contabilidade
+SMS : Short Message Service
+XML : Extensible Markup Language
+EDIFACT : Electronic Data Interchange for Administration, Commerce and Transport
+P2P : Peer-to-Peer
+HTTPS : Hypertext Transfer Protocol over Secure Socket Layer
+e-MAIL : Electronic mail
+e-Business : Negócio eletrónico
+E-Commerce : Electonic commerce
+e-Banking : Electronic Banking
+USB : Barramento Série Universal
+RSS : Really Simple Syndication
+DSL : Digital Subscriber Line
+DMET : Documento Metodológico
+ISBN : International Standard Book Number
+ISSN : International Standard Serial Number
+CAE : Classificação das Atividades Económicas Portuguesa por Ramos de Atividade
+MPPE : Manual de Procedimentos da Produção Estatística
+ALEA : Ação Local de Estatística Aplicada
+AUVIS : Audiovisual Statistics
+FEA : Ficheiro de explorações agrícolas
+BDEO : Biblioteca Digital de Estatísticas Oficiais
+BGRI : Base Geográfica de Referênciação de Informação
+C&T : Ciência e Tecnologia
+CE : Comunidade Europeia
+CECA : Comunidade Europeia do Carvão e do Aço
+CIFE : Comissão de Índices e Fórmulas de Empreitadas
+CRM : Customer Relationship Management
+CPC : Classificação Central de Produtos
+CPE : Comité do Programa Estatístico
+CPLP : Comunidade dos Países de Língua Portuguesa
+CPS : Statistical Programme Committe
+DGA : Drecção-Geral das Alfândegas
+DGAIEC : Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+DG : Direção-Geral
+DR : Delegações Regionais
+ECOFIN : Conselho Económico e Financeiro
+EFQM : European Foundation for Quality Management
+IDEP : Intrastat Data Entry Package
+INAG : Instituto da Água, I.P.
+INATEL : Instituto Nacional para Aproveitamento dos Tempos Livres dos Trabalhadores
+IRC : Imposto Sobre o Rendimento Coletivo
+ISO : International Organization for Standardization
+ITIJ : Instituto das Tecnologias de Informação na Justiça
+IVA : Imposto Sobre o Valor Acrescentado
+MCS : Matriz de Contabilidade Social
+MEDSTAT : Mediterranean Statistics
+Mercosul : Mercado Comum para o Brasil, Argentina, Uruguai e Paraguai
+NT : Network
+OLAP : On-line Analytical Processing
+PLP : Países de Língua Portuguesa
+PHARE : Programa Comunitário de Cooperação com os Países da Europa Central e Oriental
+PIB : Produto Interno Bruto
+PIDDAC : Programa de Investimento e Despesas de Desenvolvimento da Administração Central
+PIR PALOP : Programa Indicativo Regional para os PALOP
+PNB : Produto Nacional Bruto
+RAM : Região Autónoma da Madeira
+RESCO : Regional Satistics Coordination Officer
+RMG : Rendimento Mínimo Garantido
+SIRIC : Sistema Integrado de Registo e Identificação Civil
+SLIM : Simplification of Legislation in Internal Market
+UO : Unidade Orgânica
+GIASE/ME : Gabinete de Informação e Avaliação do Sistema Educativo/Ministério da Educação
+DRA : Direção Regional de Agricultura
+DGPJ : Direção-Geral da Política de Justiça
+GPLP/MJ : Gabinete de Política Legislativa e Planeamento, Ministério da Justiça
+OCES : Observatório da Ciência e do Ensino Superior
+GPEARI : Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais
+UMIC : Agência para a Sociedade do Conhecimento, IP
+SNRIPD : Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência (MSST)
+INR : Instituto Nacional para a Reabilitação, IP
+SREA : Serviço Regional de Estatística dos Açores
+BdP : Banco de Portugal
+IGIF : Instituto de Gestão Informática e Financeira, Ministério da Saúde
+IIESS : Instituto de Informática e Estatística da Segurança Social, I P
+II,I.P : Instituto de Informática, I. P
+INSA : Instituto Nacional de Saúde Dr. Ricardo Jorge
+DGEG : Direção-Geral de Energia e Geologia
+DGGE : Direção-Geral de Geologia Energia
+ANACOM : Autoridade Nacional de Comunicações
+IGM : Instituto Geológico e Mineiro, Ministério da Economia
+DPCI : Departamento de Planeamento, Coordenação e Cooperação Internacional
+SCSE : Serviço de Secretariado do Conselho Superior de Estatística
+ERC : Entidade Reguladora para a Comunicação Social
+ACARTE : Serviço de Animação Cultural e Educação pela Arte
+ACP : África, Caraíbas e Pacífico
+AFP : Agência France-Presse
+AIP : Associação Industrial Portuguesa
+ANA : Aeroportos e Navegação Aérea
+BD : Base de Dados
+CNP : Classificação Nacional de Profissões
+CV : Coeficiente de Variação
+DREM : Direção Regional de Estatística da Madeira
+MAPM : Ministro-Adjunto do Primeiro Ministro
+NAT : Núcleo de Apoio Técnico
+NEDS : Núcleo de Estatísticas Demográficas e Sociais
+NEF : Núcleo de Estatísticas das Famílias
+NSII : Núcleo de Sistemas de Informação e Informática
+SESIC : Serviço de Estatísticas da Sociedade da Informação e do Conhecimento
+DGSS : Direção-Geral da Segurança Social
+ANC : African National Congress
+AML : Área Metropolitana de Lisboa
+ANMP : Associação Nacional dos Municípios Portugueses
+AMP : Área Metropolitana do Porto
+APET : Associação portuguesa de espectadores de televisão
+AR : Assembleia da República
+ASEAN : Association of South East Asian Nations
+ARS : Administração Regional de Saúde
+BBC : British Broadcasting Corporation
+BEI : Banco Europeu de Investimento
+BERD : Banco Europeu para a Reconstrução e o Desenvolvimento
+CAP : Confederação dos Agricultores de Portugal
+CCB : Centro Cultural de Belém
+CCPM : Comissão Conjunta Político-Militar
+CCDR : Comissão de Coordenação e Desenvolvimento Regional
+CDU : Christlich Demokratische Union Deutschlands
+CEI : Comunidade de Estados Independentes (países da ex-URSS)
+CP : Comboios de Portugal
+CITES : Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (Convenção de Washington)
+CNA : Confederação Nacional da Agricultura
+CNB : Companhia Nacional de Bailado
+COREPER : Comité de Representantes Permanentes
+CRIL : Circular Regional Interior de Lisboa
+CREL : Circular Regional Exterior de Lisboa
+CSCE : Conferência sobre Segurança e Cooperação na Europa
+DECO : Associação Portuguesa para a Defesa do Consumidor
+DIAP : Departamento de Investigação e Ação Penal
+DN : Diário de Notícias
+EEE : Espaço Económico Europeu
+BM : Boletim Mensal
+EN : Estrada Nacional (nº...)
+PROJETO HERMES : Projeto de Reformulação do Sistema de Informação das Estatísticas da Justiça
+AAS : Amostragem Aleatória Simples
+EPAC : Empresa para Agroalimentação e Cereais (era Empresa Pública de Abastecimento de Cereais)
+IUTIC : Inquérito à Utilização de Tecnologias da Informação e da Comunicação
+ATM : Automated Teller Machine
+ETA : Estação de Tratamento de Água
+FAA : Forças Armadas Angolanas
+FAO : Food and Agriculture Organization of the United Nations
+FAUL : Federação da Área Urbana de Lisboa
+FEDER : Fundo Europeu de Desenvolvimento Regional
+FIL : Feira Internacional de Lisboa
+SITEME : Sistema de Transferências Eletrónicas de Mercado
+DMC : Disponibilização Mínima de Caixa
+CIF : Custo, Seguro e Frete
+CEMT : Conferência Europeia dos Ministros dos Transportes
+CGTP : Confederação Geral dos Trabalhadores Portugueses
+UGT : União Geral de Trabalhadores
+SIOU : Sistema de Indicadores das Operações Urbanísticas
+GIASE : Gabinete de Informação e Avaliação do Sistema Educativo
+GEPE : Gabinete de Estatística e Planeamento da Educação
+FEPASA : Federação Portuguesa das Associações Avícolas
+UPH : Unidade de Produção Homogénea
+OP : Organizações de Produtores
+SIL : Sistema de Informação do Licenciamento
+FENALAC : Federação Nacional das Cooperativas de Leite e Lacticínios
+A : Ampere
+a. v. r. : Acondicionado para venda a retalho
+ACIME : Alto Comissariado para a Imigração e Minorias Étnicas
+AVC : Acidente vascular cerebral
+CATI : Computer Assisted Telephone Interview
+CAPI : Computer Assisted Personal Interview
+DCICCEF : Direção Central de Investigação da Corrupção e Criminalidade Económica e Financeira (Polícia Judiciária)
+CSA : Código da Situação da Atividade
+DEM : Departamento de Estatísticas Macroeconómicas
+DGTT : Direção Geral dos Transportes Terrestres
+DIU : Dispositivo intre-uterino
+ICHS : Inquérito à Caracterização da Habitação Social
+ENPS : Escalão de Número de Pessoas ao Serviço
+GWh : Gigawatt-hora
+IA : Instituto das Artes
+IAIT : Inquérito Anual à Indústria Transformadora
+ICS : Instituto da Comunicação Social
+ICAM : Instituto do Cinema, Audiovisual e Multimédia
+INEI : Índice de Novas Encomendas na Indústria
+IGAC : Inspeção-Geral das Atividades Culturais
+IPCOP : Índice de Produção na Construção e Obras Públicas
+IRTC : Instrumento de Regulamentação Coletiva de Trabalho
+MOPTH : Ministério das Obras Públicas, Transportes e Habitação
+NI : Núcleo de Inquéritos
+OIC : Observatório de Inovação e Conhecimento
+OTE : ORIENTAÇÃO TÉCNICO-ECONÓMICA
+SAU : Superfície Agrícola Utilizada
+PTR : Procura Turística dos Residentes
+SEVM : Serviço de Estatísticas Vitais e Migratórias
+SGBD : Sistema de Gestão de Bases de Dados
+SII : Sistema Integrado de Informação
+STA : Situação Perante a Atividade
+TCO : Trabalhador por Conta de Outrem
+TJ : Terajoule=10(elevado) 12 Joules
+UAE : Unidade de Atividade Económica
+UDE : Unidade de Dimensão Económica
+UNCTAD : United nacions conference on trade and development
+UNESCO : United Nations Educational, Scientific and Cultural Organization
+UTA : Unidade de Trabalho Agrícola
+VLQPRD : Vinho Licoroso de Qualidade Produzido em Região Demarcada
+ADP : Agregado Doméstico Privado
+AM : Amostra-Mãe
+ACNAT : Action by the Community relating to nature conservation
+AID : Associação Internacional de Desenvolvimento
+Altener : Programa de desenvolvimento de energias alternativas
+APEC : Cooperação Económica Ásia-Pacífico (Asia-Pacific economic cooperation)
+ASCII : American Standard Code for Information Interchange
+BC-NET : Rede de cooperação empresarial
+Benelux : Belgium, Netherlands, Luxemburg
+BEP : Bolsa de Emprego Público
+BEUC : Secretariado Europeu da União dos Consumidores
+Bridge : Programa específico de investigação e desenvolvimento tecnológico no domínio da biotecnologia
+Brite : Programa plurianual de investigação e desenvolvimento da CEE nos domínios da investigação tecnológica fundamental e da aplicação das novas tecnologias
+Brite-Euram : Programa específico de investigação e desenvolvimento da CE nos domínios das tecnologias de produção industrial e das aplicações de materiais avançados
+BSE : Encefalopatia espongiforme bovina (doença das "vacas loucas")
+CAD : Comité de Ajuda ao Desenvolvimento
+CADDIA : Cooperação na automatização de dados e documentação relativos às importações/exportações e à agricultura
+CARE : Community road accidente database
+CCAMLR : Convenção para a Conservação da Fauna e da Flora Marinhas da Antártida
+CCITT : Comité Consultivo da Inovação e Transferência de Tecnologias
+CCITT : Comissão Consultiva Internacional Telegráfica e Telefónica
+CCT : Comité Científico e Técnico (Euratom)
+CCT : Contrato Coletivo de Trabalho
+CE : Comissão Europeia
+CE : Conselho Europeu
+CEDEFOP : Centro Europeu para o Desenvolvimento da Formação Profissional
+CEDEX : Courrier d'entreprise à distribution exceptionnelle
+CEIES : Comité Consultivo Europeu da Informação Estatística nos domínios Económico e Social
+Celex : Sistema interinstitucional de documentação automatizada sobre o direito comunitário
+Cenelec : Comité Europeu de Normalização Eletrotécnica
+CERN : Organização Europeia de Investigação Nuclear
+CIME : Comité Intergovernamental para as Migrações Europeias
+CODEST : Comité de Desenvolvimento Europeu da Ciência e da Tecnologia
+COGECA : General Committee for Agricultural Cooperation
+Comett : Programa comunitário de educação e de formação no domínio das tecnologias
+Colect : Coletânea da Jurisprudência
+COMEDI : Commerce Electronic Data Interchange
+COMEXT : Base de dados do comércio externo da CE
+CORDIS : Serviço Comunitário de Informação para a Investigação e o Desenvolvimento
+CORINE : Coordenação da informação sobre o ambiente
+COSINE : Cooperação para a realização de redes abertas de interconexão
+COST : Cooperação Europeia no domínio da Investigação Científica e Técnica
+CRAFT : Programa de ação para as PME de artesanato e de comércio
+CREST : Comité de Investigação Científica e Técnica
+Cronos : Base de dados do Eurostat para a gestão das séries cronológicas
+CST : Comité Científico e Técnico (Euratom)
+CTCI : Classificação Tipo para o Comércio Internacional 
+CTS : Serviços de ensaio de conformidade (conformance testing services)
+NC : Nomenclatura Combinada
+DECT : Telecomunicações digitais europeias sem fios
+DELTA : Desenvolvimento do Ensino na Europa através das Tecnologias Avançadas
+DIANE : Rede europeia de acesso direto à informação
+DOSES : Desenvolvimento de sistemas periciais de estatística
+DOSIS : Development of statistical information services
+DRAM : Dynamic random access memory
+Ecosoc : Conselho Económico e Social (ONU)
+ECU : Unidade de conta europeia (European currency unit)
+Erasmus : programa de ação comunitário em matéria de mobilidade dos estudantes universitários
+Ehlass : Sistema Europeu de Controlo de Acidentes Domésticos e de Lazer
+CEEA : Comunidade Europeia de Energia Atómica 
+Eureka : Agência Europeia de Coordenação da Investigação
+Europol : Serviço Europeu de Polícia
+EVA : Vacina europeia contra a sida
+FECOM : Fundo Europeu de Cooperação Monetária
+FED : Fundo Europeu de Desenvolvimento
+FEG : Fundo Europeu de Garantia
+FEI : Fundo Europeu de Investimento
+FEOGA : Fundo Europeu de Orientação e de Garantia Agrícola
+FIDA : Fundo Internacional de Desenvolvimento Agrícola
+FIDE : Federação Internacional do Direito Europeu
+FIDH : Federação Internacional dos Direitos do Homem
+FME : Fundo Monetário Europeu
+FNULAD : Fundo das Nações Unidas para a Luta contra o Abuso de Drogas
+FNUR : Fundo das Nações Unidas para os Refugiados
+FORCE : Programa de ação para o desenvolvimento da formação profissional contínua na Comunidade Europeia
+FORMA : Fundo de Orientação e Regularização dos Mercados Agrícolas
+FSE : Fundo Social Europeu
+FSM : Federação Sindical Mundial
+GAEC : Agrupamento agrícola de exploração em comum
+GAFI : Grupo de Ação Financeira Internacional
+GATS : General Agreement on Trade in Services (Acordo Geral sobre o Comércio de Serviços)
+GATT : General Agreement on Tariffs and Trade (Acordo Geral sobre Pautas Aduaneiras e Comércio)
+GEA : Gabinete Europeu do Ambiente
+GEF : Fundo Mundial do Ambiente
+GNSS : Sistema Global de Navegação por Satélite
+GMS : Sistema Mundial de Comunicações Móveis
+HCFC : Hidroclorofluorocarbono
+Habitat : Conferências das Nações Unidas sobre os Estabelecimentos Humanos
+HUGO : Organização do Genoma Humano
+IATA : Associação Internacional de Transporte Aéreo
+IBC : Integrated broadband communications (comunicações integradas de banda larga)
+ICM : Instituto Comunitário das Marcas
+ICO : Instituto de Crédito Oficial
+IEP : Instituto Europeu de Patentes
+IDT : Investigação e desenvolvimento tecnológico
+IME : Instituto Monetário Europeu
+IGT : Inspeção-Geral do Trabalho
+IICVF : Instituto de Inspeções e de Controlos Veterinários e Fitossanitários
+Inmarsat : Organização Internacional de Telecomunicações Marítimas por Satélite
+INSIS : Sistema de Informação Comunitário Interinstitucional para a Integração de Serviços
+IRIE : Instituto de Relações Internacionais e Estratégicas
+JANUS : Sistema de Informação Comunitário para a Higiene e a Segurança no Trabalho
+JAI : Justiça e Assuntos Internos
+LDAP : Lightweight Directory Access Protocol
+Matthaeus-TAX : Programa de ação comunitário no domínio da formação profissional dos funcionários responsáveis pela fiscalidade indireta
+MCM : Montante(s) compensatório(s) monetário(s)
+MBP : Margem bruta padrão
+NET : Norma europeia de telecomunicações
+NCCA : Nomenclatura do Conselho de Cooperação Aduaneira
+NAFTA : Acordo de Comércio Livre da América do Norte
+NACOPC : Nomenclatura para Análise e Comparação dos Orçamentos e Programas Científicos
+NIC : Novo Instrumento Comunitário
+NICE : Nomenclatura das Indústrias Estabelecidas nas Comunidades Europeias
+NIPC : Novo Instrumento de Política Comercial
+NUMET : Nomenclatura Uniforme das Mercadorias para as Estatísticas dos Transportes
+ONG : Organização Não Governamental
+OEN : Organização Europeia de Normalização
+OEEC : Organização Europeia de Ensaios e Certificação
+OSCE : Organização para a Segurança e a Cooperação na Europa
+ORA : Oferta de Rede Aberta
+PAC : Política Agrícola Comum
+PAC : Projeto Ambiental Comum
+PAC : Política Aduaneira Comum
+PACE : Programa de ação comunitário com vista a melhorar a eficácia da utilização da eletricidade
+PACE : Programa (europeu) de formação contínua avançada
+PALOP : Países Africanos de Língua Oficial Portuguesa
+PAM : Programa Alimentar Mundial (ONU)
+PCB : Policlorobifenilo
+PCT : Policloroterfenilo
+PDI : Programas de Desenvolvimento Integrado
+PE : Parlamento Europeu
+PESC : Política Externa e de Segurança Comum
+PG : Preferências Generalizadas
+PIN : Personal Identification Number
+PMA : Peso Máximo Autorizado
+PO : Projeto de Orçamento
+PPC : Percentagem de Poder de Compra
+QMG : Quantidade Máxima Garantida
+QMR : Quantidade Média Retificada
+RDSI : Rede digital de serviços integrados
+RMN : Ressonância Magnética Nuclear
+RNIS : Rede Numérica de Serviços Integrados
+RO : Rubrica Orçamental
+ROM : Read-only memory (memória morta)
+Ro-Ro : Roll-on/roll-off
+SA : Sociedade Anónima
+SAE : Serviço de Aproximação de Empresas (Comissão Europeia)
+SAE : Sociedade Anónima Europeia
+SARL : Sociedade Anónima de Responsabilidade Limitada
+SCAD : Serviço Central Automatizado de Documentação
+SCE : Sociedade Cooperativa Europeia
+SCIC : Serviço Comum "Interpretação-Conferências"
+SCR : Serviço Comunitário de Referência
+SDN : Sociedade das Nações
+SdT : Direção-Geral da Tradução (Comissão Europeia)
+SEBC : Sistema Europeu de Bancos Centrais
+SIFIM : Serviços de Intermediação Financeira Indiretamente Medidos
+SECEI : Sistema Europeu de Contas Económicas Integradas (Eurostat)
+SEDOC : Sistema Europeu de Troca de Informações sobre as Ofertas e os Pedidos de Emprego
+SEDOC-EURES : Projeto relativo à troca de dados relacionados com o mercado de trabalho
+SFI : Sistema Financeiro Internacional (organismo)
+SGML : Standard generalised mark-up language (Sistema de Marcação Geral Normalizado de Linguagem)
+SH : Sistema harmonizado de designação e codificação de mercadorias
+SICAV : Sociedade de Investimento de Capital Variável
+SIA : Sistema de Informação Aduaneiro
+SID : Sistema Informatizado das Alfândegas
+Sócrates : Programa de ação comunitário para promover a cooperação entre Estados-Membros no domínio da educação
+SPA : Unidades de Paridade de Poder de Compra
+SPEC : Programa europeu de apoio à criação de empregos
+SPG : Sistema de Preferências Generalizadas
+SPOCE : Serviço das Publicações Oficiais das Comunidades Europeias
+SEE : Sistema Estatístico Europeu
+STJ : Supremo Tribunal de Justiça
+Systran : Sistema de Tradução Automática
+SVA : Serviço de valor acrescentado
+TAC : Tradução Assistida por Computador
+TCA : Taxa de Conversão Agrícola
+TARIC : Integrated Tariff of the European Communities
+TCE : Tratado que institui a União Europeia
+TEDH : Tribunal Europeu dos Direitos do Homem
+TEDIS : Trade Electronic Data Interchange System
+TICF : Transporte Internacional por caminhos de ferro
+Thermie : Tecnologias europeias para a gestão de energia
+TIJ : Tribunal Internacional de Justiça
+TIR : Transportes Internacionais Rodoviários
+TJCE : Tribunal de Justiça das Comunidades Europeias
+TMG : Tempo Médio de Greenwich
+TPI : Tribunal Penal Internacional
+TPICE : Tribunal de Primeira Instância das Comunidades Europeias
+UC : Unidade de Conta
+UCA : Unidade de Conta Agrícola
+UCE : Unidade de Conta Europeia
+UCME : Unidade de Conta Monetária Europeia
+UEO : União da Europa Ocidental
+UEMAO : União Económica e Monetária da África Ocidental
+UEP : União Europeia de Pagamentos
+UHF : Frequência ultra-alta
+UICF : União Internacional dos caminhos de ferro
+UIQPA : União Internacional da Química Pura e Aplicada
+UIT : União Internacional das Telecomunicações
+UMA : União do Magrebe Árabe
+UMTS : Universal Mobile Telecommunications System
+Unavem : Missão de Verificação das Nações Unidas em Angola
+UNECE : United Nations Economic Commission for Europe
+UNDC : Comissão das Nações Unidas para o Desarmamento
+Unicef : Fundo das Nações Unidas para a Infância
+URL : Uniform resource locator
+UTH : Unidade de Trabalho Humano
+VALUE : Programa específico para a divulgação e utilização dos resultados da investigação científica e tecnológica
+VEQPRD : Vinhos Espumantes de Qualidade Produzidos em Regiões Determinadas
+VIH : Virus da Imunodeficiência Humana
+VQPRD : Vinhos de Qualidade Produzidos em Regiões Determinadas
+Valoren : Programa comunitário relativo ao desenvolvimento de certas regiões desfavorecidas da Comunidade por meio da valorização do potencial energético endógeno
+WAC : Acidente Generalizado do Núcleo
+WHA : Associação Mundial de Saúde
+WISE : Serviço Mundial de Informação Energética
+ZCL : Zona de Comércio Livre
+ZCP : Zona de Comércio Preferencial (da África Oriental e Austral)
+ZECL : Zona Europeia de Comércio Livre
+ZEE : Zona Económica Exclusiva
+ARCO : Arte Contemporânea (feira)
+ACP : Automóvel Clube Português
+AEP : Associação Empresarial de Portugal
+AIEA : Agência Internacional de Energia Atómica
+ATV : Associação de telespectadores
+CIG : Conferência Intergovernamental
+CNI : Centro Nacional de Inteligência
+EBITDA : Earnings Before Income Taxes, Depreciation And Amortization
+EMBC : Conferência Europeia de Biologia Molecular
+EMBL : Laboratório Europeu de Biologia Molecular
+EMBO : Organização Europeia de Biologia Molecular
+EP : Estradas de Portugal
+EPA : Environmental Protection Agency
+EPUL : Empresa Pública de Urbanização de Lisboa
+ESA : European Space Agency
+ESO : Observatório Europeu do Sul
+Eutelsat : Organização Europeia  de Telecomunicações por Satélite
+FLAD : Fundação Luso-Americana para o Desenvolvimento
+GEOTA : Grupo de Estudos de Ordenamento do Território e Ambiente
+GNFL : Gabinete do Nó Ferroviário de Lisboa
+G7 : Grupo dos sete países mais industrializados do mundo
+IAPMEI : Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento
+IC : Instituto do Consumidor
+IGAPHE : Instituto de Gestão e Alimentação do Património Habitacional do Estado
+IGAT : Inspeção-Geral da Administração do Território
+INA : Instituto Nacional de Administração
+INA : Direção-Geral da Qualificação de Trabalhadores em Funções Públicas
+INETI : Instituto Nacional de Engenharia, Tecnologia e Inovação
+Inftur : Instituto de Formação Turística
+INH : Instituto Nacional da Habitação
+IM : Instituto de Meteriologia
+IPA : Instituto Português de Arqueologia
+IPE : Investimentos e Participações Empresariais
+Ippar : Instituto Português do Património Arquitetónico
+IPCC : Painel Intergovernamental para as Alterações Climáticas
+IST : Instituto Superior Técnico
+N.º : Número
+WWW : World Wide Web
+WWF : World Wide Fund for Nature (Fundo Mundial da Natureza)
+UNPO : Unrepresented Nations and People Organization (Organização das Nações e Povos não Representados)
+STM : Supremo Tribunal Militar
+SNBA : Sociedade Nacional de Belas-Artes
+Scut : Sem Custos para o Utilizador
+Trim. : Trimestre
+Sem. : Semestre
+Obs. : Observação
+Jan. : Janeiro
+Fev. : Fevereiro
+Mar. : Março
+Abr. : Abril
+Mai. : Maio
+Jun. : Junho
+Jul. : Julho
+Ago. : Agosto
+Set. : Setembro
+Out. : Outubro
+Nov. : Novembro
+Dez. : Dezembro
+CSE : Conselho Superior de Estatística
+ACPT : Associação Portuguesa de Controlo e Tiragens
+CE : Construção de Edifícios
+CENR : Construção de Edifícios Não Residenciais
+DGAA : Direção-Geral da Administração Autárquica
+DRA : Direção Regional do Ambiente
+ECHP : European Community Household Panel
+EU-SILC : EU Statistics on Income and Living Conditions
+ICOR : Inquérito às Condições de Vida e Rendimento
+IEGPA : Inquérito às Empresas,  Gestão e Proteção do Ambiente
+IFOF : Inquérito às Formas de Ocupação do Fogos
+IGTI : Inquérito aos Gastos Turísticos Internacionais
+IMPF : Inquérito ao Movimento de Pessoas nas Fronteiras
+INR : Instituto Nacional dos Resíduos
+OberCom : Observatório da Comunicação
+PEADP : Painel Europeu de Agregados Domésticos Privados
+APDSI : Associação para a Promoção e Desenvolvimento da Sociedade da Informação
+RAU : Regime de Arrendamento Urbano
+RSF : Resposta Sem Franquia
+CCA : Conselho de Coordenação da Avaliação
+SED : Serviço de Estatísticas Demográficas
+CNC : Conceito
+TIP : Transmissão Intergeracional da Pobreza
+n. a. : não se aplica
+n.a.v.r. : Não acondicionado para venda a retalho
+e.r. : Erro Relativo de Amostragem
+MOI : Mercado de Operações de Intervenção
+AP : Administração Pública
+REFTER : Referenciação Territorial
+SIN : Setor Institucional
+ISFL : Instituição Sem Fins Lucrativos
+SPE : Serviços Prestados às Empresas
+RABC : Rendimento Anual Bruto Corrigido
+UCDR : Unidade Comercial de Dimensão Relevante
+SIC : Serviço de Estatísticas da Sociedade de Informação e Conhecimento
+PDA : Personal Digital Assistant
+UAP : Unidade Amostral Primária
+CPT : Condição Perante o Trabalho
+CAD/CAM : Computer-Aided Design / Computer-Aided Manufacturing
+POSI : Programa Operacional Sociedade da Informação
+CIS : Inquérito Comunitário à Inovação
+CITE : Classificação Internacional Tipo de Educação
+CNPD : Comissão Nacional para a Proteção de Dados
+FOS : Fields of science and technology
+IPCTN : Inquérito ao Potencial Científico e Tecnológico Nacional
+RHC&T : Recursos Humanos em Ciência & Tecnologia
+SIES : Sistemas de Informação Estratégicos
+COINS : Communication and Information Services
+ANIA : Associação Nacional dos Industriais do Arroz
+DAI : Sociedade de Desenvolvimento Agroindustrial
+IACA : Associação Portuguesa dos Industriais de Alimentos Compostos para Animais
+IMS : Ingestão de Matéria Seca
+IMSC : Ingestão de Matéria Seca nos Alimentos Comercializáveis
+IMSG : Ingestão de Matéria Seca nos Alimentos Grosseiros
+IMST : Ingestão de Matéria Seca Total
+ISA : Instituto Superior de Agronomia
+PIB : Produção Indígena Bruta
+IVV : Instituto da Vinha e do Vinho, I.P.
+RAR : Refinarias de Açúcar Reunidas
+DW : Data Warehouse
+BLS : Bureau of Labour Statistics
+DGEEP : Direção-Geral de Estudos, Estatística e Planeamento
+GEP : Gabinete de Estratégia e Planeamento
+ECAE : Escalões de Atividade Económica
+CD : Compact Disc
+GPRS : General Packet Radio Service
+IGE : Instituto Galego de Estatística
+IPSFL : Instituição Privadas sem Fins Lucrativos
+MTSS : Ministério do Trabalho e da Solidariedade Social
+NEA : Nível Económico de Ataque
+OP : Obras Públicas
+QP : Quadros de Pessoal
+RGA 99 : Recenseamento Geral Agrícola de 1999
+TV : Via Tele-escola
+IA : Índice de Acidificação
+Agnace : Agregação de Atividade Económica
+SPSS : Statistical Package for Social Sciences
+DGERT : Direção Geral de Emprego e Relações de Trabalho
+AMS : Associação de Socorros Mútuos
+SEEPROS : Sistema Europeu de Estatísticas Integradas da Proteção Social
+IPSS : Instituições Particulares de Solidariedade Social
+CGA : Caixa Geral de Aposentações
+IGIFSS : Instituto de Gestão e Informática dos Serviços de Saúde
+SAMS : Serviços de Assistência Médico-Sociais dos Bancários
+ADM : Assistência na Doença a Militares das Forças Armadas
+ADM : Assistência na Doença a Militares 
+IAS : Indexante dos Apoios Sociais
+ENDS : Estratégia Nacional de Desenvolvimento Sustentável
+GPPAA : Gabinete de Planeamento e Política Agroalimentar
+GPP : Gabinete de Planeamento e Políticas
+Fenazeites : Federação Nacional das Cooperativas de Olivicultores
+SPEES : Secção Permanente de Estatísticas Económicas sectoriais
+NPC : Número de Pessoa Coletiva
+APCC : Associação Portuguesa de Centros Comerciais
+OC : Observatório do Comércio (extinto)
+CITA-Rev.3 : Classificação Internacional Tipo, por Indústria, de todos os Ramos de Atividade Económica, Revisão 3
+AP : Atendimento Permanente
+CAP : Centro de Atendimento Permanente
+CATUS : Centro de Atendimento e Tratamentos Urgentes
+EPCP : Estado das Culturas e Previsão das Colheitas
+IGC : Inquérito aos Cereais para Grão
+SADU : Serviço de Atendimento de Doentes Urgentes
+SAP/SU : Serviço de Atendimento Permanente/ Serviço de Urgência
+SASU : Serviço de Atendimento de Situações Urgentes
+SNS : Serviço Nacional de Saúde
+SPIS : Sistema de Portátil Integrado Seguro
+IMMS : Inquérito aos Movimentos Migratórios de Saída
+ANIL : Associação Nacional dos Industriais de Lacticínios
+IFR : Instrumental Flight Rules
+IDS : Indicadores de Desenvolvimento Sustentável
+IASE : International Association for Statistical Education
+IBGE : Instituto Brasileiro de Geografia e Estatística
+ISI : International Statistical Institute
+ICOTS : International Conference on Teaching Statistics
+PMA : Programa de Monitorização e Avaliação
+VPN : Virtual Private Network
+EDI : Electronic Data Interchange
+RIS : Rede de Informação da Saúde
+WAN : Wide Area Network
+WI-FI : Wireless Fidely
+WEB : World Wide Web
+ADSL : Linha de Subscritor Digital Assimétrica
+HTTP : Hypertext Transfer Protocol 
+TCP/IP : Transmission Control Protocol/Internet Protocol
+xDSL : Digital Subscriber Line
+WAP : Wireless Application Protocol
+ASP : Ative Server Pages
+DGIDC : Direção-Geral de Inovação e de Desenvolvimento Curricular
+DRE : Direção Regional de Educação
+SQL : Structured Query Language
+UOE : Unesco/OCDE/Eurostat
+CAM : Comissões Arbitrais Municipais
+CIME : Comissão Interministerial para o Emprego
+DGFV : Direção-Geral de Formação Vocacional
+ECTS : European Credit Transfer System
+GTEEF : Grupo de Trabalho das Estatísticas de Educação e Formação
+IQF : Instituto para a Qualidade da Formação
+RVCC : Reconhecimento, Validação e Certificação de Competências
+OLEFA : Organização Local de Educação e Formação de Adultos
+Eurydice : Rede de Informação sobre Educação na Europa
+SM : Serviço de Sistemas e Metainformação
+OPE : Outros Países da Europa
+NST/R : Standard Goods Classification for Transport Statistics/Revised
+ISO alpha2 : Norma Internacional - Códigos para a Representação dos Nomes dos Países
+ILSE : Index of Locationsfor Statistics in Europe
+DEE/CTT : Departamento de Estatísticas Económicas / Serviço de Estatísticas do Comércio, Turismo e Transportes
+DGTTF : Direção Geral dos Transportes Terrestres e Fluviais
+SIGUA : Sistema integrado de gestão de universos e amostras
+UIE : Universo dos Inquéritos de Estrutura
+UIC : Universo dos Inquéritos de Conjuntura
+GP : Gabinete do Presidente
+AJ : Unidade de Apoio Jurídico
+CI : Unidade de Comunicação e Imagem
+GP/GQ : Unidade de Gestão da Qualidade
+GP/PC : Unidade de Planeamento e Controlo
+GP/PE : Unidade de Projetos Especiais
+GP/RI : Unidade de Relações Institucionais
+GP/RIC : Unidade de Relações Internacionais e Cooperação
+GP/SEN : Unidade de Relações com o SEN
+DFA/CF : Departamento Financeiro e Administrativo/Serviço de Contabilidade e Financeiro
+DFA/ADM : Departamento Financeiro e Administrativo/Serviço Administrativo
+DRH/FD : Serviço de Formação e Desenvolvimento
+DRH/GP : Serviço de Gestão de Pessoal
+DME/FUE : Departamento de Metodologia Estatística/Serviço de Ficheiros de Unidades Estatísticas
+IHRU : Instituto da Habitação e da Reabilitação Urbana, IP
+DMSI/ME : Departamento de Metodologia e de Sistemas de Informação / Serviço de Métodos Estatísticos
+DMSI/SM : Departamento de Metodologia e de Sistemas de Informação/ Serviço de Sistemas e Metainformação
+DME/SM : Deparatmento de Metodologia Estatística / Serviço de Metainformação
+DSI/IT : Serviço de Infraestrutura e Tecnológica
+DSI/DA : Serviço de Desenvolvimento Aplicacional
+DSI/II : Serviço de Infraestrutura Informacional
+DRI/MSR : Departamento de Recolha de Informação/ Serviço de Métodos e Sistemas de Recolha
+DRI/IE : Departamento de Recolha de Informação / Serviço de Inquéritos por Entrevista
+DRI/RD : Departamento de Recolha de Informação/ Serviço de Recolha de Dados
+DES/TR : Departamento de Estatísticas Demográficas e Sociais / Serviço de Estatísticas do Trabalho
+DES/DM : Departamento de Estatísticas Demográficas e Sociais / Serviço de Estatísticas Demográficas
+DES/SIC : Departamento de Estatísticas Demográficas e Sociais / Serviço de Estatísticas da Sociedade de Informação e Conhecimento
+GET : Gabinete para a Coordenação das Estatísticas Territoriais
+DES/TT : Departamento de Estatísticas Demográficas e Sociais / Serviço de Estatísticas Territoriais
+DES/IES : Departamento de Estatísticas Demográficas e Sociais/Serviço de Integração de Estatísticas Sociais
+PER : Programa Especial de Realojamento
+DEE/EP : Departamento de Estatísticas Económicas/ Serviço de Estatísticas das Empresas
+DEE/CII : Serviço de Estatísticas do Comércio Internacional e Produção Industrial
+DEE/CII : Departamento de Estatísticas Económicas / Serviço de Estatísticas do Comércio Internacional, Indústria e Construção
+DEE/ICS : Serviço de Estatísticas da Indústria, Construção e Outros Serviços
+DEM/ACP : Departamento de Estatísticas Macroeconómicas/Serviço de Análise de Conjuntura e Previsão
+DEM/ICP : Departamento de Estatísticas Macroeconómicas/Serviço de Indicadores de Curto Prazo
+DEM/PC : Departamento de Estatísticas Macroeconómicas/Serviço de Estatísticas de Preços no Consumidor
+DEM/CRA : Departamento de Estatísticas Macroeconómicas/Serviço de Contas dos Ramos de Atividade
+DEM/CSI : Departamento de Estatísticas Macroeconómicas/Serviço de Contas dos Setores Institucionais
+DEM/CR : Departamento de Estatísticas Macroeconómicas/Serviço de Contas Regionais
+DEM/CNT : Departamento de Estatísticas Macroeconómicas/Serviço de Contas Nacionais Trimestrais
+DEM/CS : Departamento de Estatísticas Macroeconómicas/Serviço de Contas Satélite
+DDC/PAC : Serviço de Promoção e Apoio ao Cliente
+DDC/DP : Serviço de Desenvolvimento de Produtos
+DRP : Delegação Regional do Porto
+DRL : Delegação Regional de Lisboa
+DRE : Delegação Regional de Évora
+DRF : Delegação Regional de Faro
+IAPI : Inquérito Anual à Produção Industrial
+CEE : Comunidade Económica Europeia
+IES : Informação Empresarial Simplificada
+DGE : Direção-Geral da Empresa
+Lista PRODCOM : Lista de Produtos da Comunidade Económica Europeia
+CAE Rev. 3 : Classificação Portuguesa das Atividades Económicas, Revisão 3
+ENI : Empresário em Nome Individual
+SOC : Sociedades
+NACE Rev.1 : Nomenclatura Estatística das Atividades Económicas na Comunidade Europeia, Revisão 1
+NACE Rev.1.1 : Nomenclatura Geral das Atividades Económicas na Comunidade Europeia, Revisão 1
+CITA-Rev.3.1 : Classificação Internacional Tipo, por Indústria, de todos os Ramos de Atividade Económica, Revisão 3.1
+LFS : Labour Force Survey
+NAF : Nomenclatura Agrária e Florestal
+RA : Região Agrária
+IPAF : Inquérito à Plantação de Árvores de Fruto
+SEC 95 : Sistema Europeu de Contas , 1995
+Euratom : Comunidade Europeia da Energia Atómica
+AEIE : Agrupamento Europeu de Interesse Económico
+SE : Sociedade Europeia
+ZFM : Zona Franca da Madeira
+RINE : Regulamento de Inspeção de Navios Estrangeiros
+DRE : Diário da República Eletrónico
+Prohabita : Programa de Financiamento para Acesso à Habitação
+GSM : Global System For Mobile Communications
+RMNA : Remunerações Mínimas Nacionais Anuais
+RAB : Rendimento Anual Bruto
+ME : Ministério da Economia
+MEI : Ministério da Economia e da Inovação
+MEE : Ministério da Economia e do Emprego
+GEE : Gabinete de Estratégia e Estudos
+UTL : Universidade Técnica de Lisboa
+CCP : Confederação do Comércio e Serviços de Portugal
+DVD : Digital Video Display
+INED : Instituto de Educação e Desenvolvimento
+BDD : Banco de Dados de Difusão
+ISCED : International Standard Classification of Education
+SIADAP : Sistema Integrado de Avaliação da Administração Pública
+DTMNFG : Distrito, Município e Freguesia
+UIS : Instituto de Estatísticas da UNESCO
+ISCO : International Standard Classification of Occupations
+CIRCA : Communication & Information Resource Centre Administrator
+RICYT : Rede de Indicadores de Ciência e Tecnologia  (Iberoamericana e Interamericana)
+MNE : Ministério dos Negócios Estrangeiros
+MISI/ME : Gabinete Coordenador do Sistema de Informação do Ministério da Educação
+ANQ : Agência Nacional para a Qualificação
+ANQEP : Agência Nacional para a Qualificação e Ensino Profissional
+GAVE : Gabinete de Abaliação Educacional
+SGMJ : Secretaria-Geral do Ministério da Justiça
+IGE : Inspeção-Geral da Educação
+MS : MINISTÉRIO DA SAÚDE
+IGAP : Inspeção -Geral da Agricultura e Pescas
+DGADR : Direção-Geral de Agricultura e Desenvolvimento Rural
+SIFICAP : Sistema de Fiscalização e Controlo das Atividades da Pesca
+Monicap : Sistema de Monitorização Contínua da Atividade de Pesca
+FEP : Fundo Europeu para as Pescas
+DGV : Direção-Geral de Veterinária
+INRB : Instituto Nacional de Recursos Biológicos, I. P.
+IVDP : Instituto dos Vinhos do Douro e Porto
+IEFA : Inquérito à Educação e Formação de Adultos
+CEPA  1994 : Classification of Environmental Protection Activities, 1994
+CEPA  2000 : Classification of Environmental Protection Activities and Expenditure, 2000
+SNBPC : Serviço Nacional de Bombeiros e Proteção Civil
+DEE/AA : Departamento de Estatísticas Económicas / Serviço de Estatísticas da Agricultura e Ambiente
+SERIEE : Sistema Europeu de Recolha de Informação Económica sobre o Ambiente
+IA : Instituto do Ambiente
+ONGA : Organizações Não Governamentais de Ambiente
+POCAL : Plano Oficial de Contabilidade das Autarquias Locais
+INSAAR : Inventário Nacional de Sistemas de Abastecimento de Água e de Águas Residuais
+TIOMAC : Sistema Integrado de Contas Regionais nos Arquipélagos
+SIEJ : Serviço de Informação das Estatísticas da Justiça
+DGAL : Direção-Geral das Autarquias Locais
+ISFLAP : Instituição Sem Fins Lucrativos e Administração Pública
+APU : Área Predominantemente Urbana
+TSP : Time Series Processor
+IE : Inquérito de Estruturas
+DMSI/GEO : Departamento de Metodologia e de Sistemas de Informação/ Serviço de Geo-Referenciação
+AMU : Área Medianamente Urbana
+APR : Área Predominantemente Rural
+ATPS : Acidentes de Trabalho e Problemas de Saúde Relacionados com o Trabalho
+CECIT : Classificação Económica do Comércio Internacional
+DAU : Documento Administrativo Único
+CVTS : Continuing Vocational Training Survey
+CZE : Classificação de Zonas Económicas
+SPPCD : Secção Permanente de Planeamento, Coordenação e Difusão
+DGCI : Direção-Geral dos Impostos
+DIMAS : Diplomados e Matriculados no Ensino Superior
+DSEI : Direção de Serviços de Estatística e de Indicadores
+GEE : Gases com Efeito de Estufa
+EM : Estado-Membro
+EVVN : Escalão do Volume de Negócios
+IMDG : International Maritime Dangerous Goods code
+DGEMN : Direção-Geral dos Edifícios e Monumentos Nacionais
+AGROGES : Sociedade de Estudos e Projetos
+CONFAGRI : Confederação das Cooperativas Agrícolas e do Crédito Agrícola de Portugal
+AJAP : Associação dos Jovens Agricultores de Portugal
+DGDR : Direção-Geral do Desenvolvimento Regional
+DGPC : Direção-Geral da Proteção das Culturas
+INIAP : Instituto Nacional de Investigação Agrária e das Pescas
+FMV : Faculdade de Medicina Veterinária
+EZN : Estação Zootécnica Nacional
+IDRH : Instituto de Desenvolvimento Rural e Hidráulica
+IDARN : Instituto para o Desenvolvimento Agrário da Região Norte
+IGP : Instituto Geográfico Português
+ESA : Escola Superior Agrária
+IPC : Instituto Politécnico de Coimbra
+IPCB : Instituto Politécnico de Castelo Branco
+ICN : Instituto da Conservação da Natureza
+UE : Universidade de Évora
+UTAD : Universidade de Trás-Os-Montes
+UAL : Universidade do Algarve
+UAC : Universidade dos Açores
+DRAP : Direções Regionais de Agricultura e Pescas
+DRAPC : Direção Regional de Agricultura e Pescas do Centro
+DRAPLVT : Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo
+DRAPA : Direção Regional de Agricultura e Pescas do Alentejo
+DRAPN : Direção Regional de Agricultura e Pescas do Norte
+DRAPALG : Direção Regional de Agricultura e Pescas do Algarve
+IEEA : Inquérito à Estrutura das Explorações Agrícolas
+DG Emprego : Direção Geral do Emprego, Assuntos Sociais e Igualdade de Oportunidades da Comissão Europeia
+DG Regio : Directorate-General for Regional and Urban Policy
+DLD : Desemprego de Longa Duração
+DPP : Departamento de Prospetiva e Planeamento e Relações Internacionais
+EEE : Estratégia Europeia de Emprego
+EFA : Educação e Formação de Adultos
+ESB : Equivalente de Subvenção Bruta
+EUA : Estados Unidos da América
+FC : Fundo de Coesão
+FEADER : Fundo Europeu Agrícola de Desenvolvimento Rural
+IDE : Investimento Direto Estrangeiro
+I&DT : Investimento e Desenvolvimento Tecnológico
+IFDR : Instituto Financeiro para o Desenvolvimento Regional
+IGF : Inspeção-Geral de Finanças
+IGFSE : Instituto de Gestão do Fundo Social Europeu, IP
+LVT : Lisboa e Vale do Tejo
+PDR : Plano de Desenvolvimento Regional
+PEC : Programa de Estabilidade e Crescimento
+PIC : Programa de Iniciativa Comunitária
+PME : Pequenas e Médias Empresas
+PNACE : Programa Nacional de Ação para o Crescimento e Emprego
+PNDES : PLano Nacional de Desenvolvimento Económico e Social
+PNE : Plano Nacional de Emprego
+PNPOT : Programa Nacional de Política de Ordenamento do Território
+PO : Programa Operacional
+PRIME : Programa de Incentivos à Modernização da Economia
+PRN : Plano Rodoviário Nacional
+QCA : Quadro Comunitário de Apoio
+QREN : Quadro de Referência Estratégico Nacional
+SIMPLEX : Programa de Simplificação Administrativa e Legislativa
+SNI : Sistema Nacional de Inovação
+DGPE : Diecção-Geral de Política Externa
+DGATE : Direção-Geral dos Assuntos Técnicos e Económicos
+MAOTDR : Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+GRIEC : Gabinete para as Relações Internacionais, Europeias e de Cooperação
+MAI : MINISTÉRIO DA ADMINISTRAÇÃO INTERNA
+PCM : Presidência do Conselho de Ministros,
+DSIEES : Direção de Serviços de Informação Estatística em Ensino Superior
+MFAP : Ministério das Finanças e da Administração Pública
+DGEP : Direção-Geral de Estudos e Previsão
+GPEARI/MFAP : Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais
+DGITA : Direção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
+DAG : Departamento de Administração e Gestão
+VFR : Visual Flight Rules
+CFE : Centro de Formalidades das Empresas
+Eurelectric : União das Industrias de Eletricidade
+RSECE : Regulamento dos Sistemas Energéticos de Climatização em Edifícios
+ERSE : Entidade Reguladora do Setor Elétrico
+CII : Serviço de Estatísticas do Comércio Internacional, Indústria e Construção
+PCSB : Plano de Contas para o Sistema Bancário
+EGMUS : European Group for Museum Statistics
+IAP : Serviço de Inquéritos por Autopreenchimento
+DRI/CPRE : Departamento de Recolha de Informação/Centro Postal de Recolha de Évora
+DGAP : Direção-Geral da Administração Pública
+DSIECT : Direção de Serviços de Informação Estatística em Ciência e Tecnologia
+FCT : Fundação para a Ciência e Tecnologia
+IEE : Indicador de Eficiência Energética dos Edifícios
+Tep : Tonelada Equivalente de Petróleo
+IMOGATUR : Inquérito aos Movimentos de Pessoas e Gastos Turisticos
+MV : Matéria Volátil
+GNC : Gás Natural Comprimido
+GNL : Gás Natural Liquefeito
+GNS : Gás Natural de Substituição
+GPL : Gases de Petróleo Liquefeito
+LGN : Líquidos de Gás Natural
+TIEPIMT : Tempo de Interrupção Equivalente de Potência Instalada
+IRS : Imposto sobre o rendimento de pessoas singulares
+SEEF : Sobreendividamento e Exclusão Financeira
+END : Energia Não Distribuída
+UAG : Unidade Autónoma de Gás Natural
+PRM : Posto de Redução e Medida
+IPH : Índice de Produtibilidade Hidroelétrica
+OEFP : Observatório do Emprego e Formação Profissional
+APEMETA : Associação Portuguesa de Empresas de Tecnologias Ambientais
+ISBSA : Inquérito ao Setor de Bens e Serviços do Ambiente
+RAA : Região Autónoma dos Açores
+SIET-MAC : Sistema de Indicadores de Sustentabilidade do Turismo na Macaronésia
+SI-MAC : Sistema de Informação Estatística da Macaronésia
+REBIDES : Registo Biográfico de Docentes do Ensino Superior
+IST : Infeções Sexualmente Transmissíveis
+IRAR : Instituto Regulador de Águas e Resíduos
+CS : Serviço de Contas Satélite
+IPEF : Inquérito ao Património e Endividamento das Famílias
+FFF : FUNDO DE FINANCIAMENTO DAS FREGUESIAS
+VIES : Sistema de Intercâmbio de Informações sobre o IVA
+ANAC : Autoridade Nacional de Aviação Civil, I.P.
+INAC : Instituto Nacional de Aviação Civil
+OACI : Organização da Aviação Civil Internacional
+NAV : Navegação Aérea de Portugal NAV
+NESI : Núcleo Estratégico da Socieddae de Informação
+IN : Instrumento de Notação
+TMD : Tráfego Médio Diário
+BT/GNR : Brigada de Trânsito da Guarda Nacional Republicana
+SATA : Sociedade Açoreana de Transportes Aéreos
+AICEP : Agência para o Investimento e Comércio Externo de Portugal, E. P. E.
+API : Agência Portuguesa para o Investimento
+ATM : Asynchronous transfer mode
+MCEF : Módulo de Caracterização Económico-Financeira
+FIC : Ficha individual de caracterização
+DTAR : Drenagem e tratamento de águas residuais
+AA : Abastecimento de água
+VCFF : Vertente de Caracterização Física e de Funcionamento
+UAEL : Unidade de Atividade Económica ao Nível Local
+ART : Áreas Regionais de Turismo
+NACE Rev. 2 : Nomenclatura Estatística das Atividades Económicas, Revisão 2
+DES/DM : Departamento de Estatísticas Demográficas e Sociais/Serviço de Estatísticas Demográficas
+IPRA 09 : Inquérito Piloto do Recenseamento Agrícola de 2009
+RA : Recenseamento Agrícola
+APA : Agência Portuguesa do Ambiente
+ICNB : Instituto da Conservação da Natureza e Biodiversidade
+BA : Base de Amostragem
+AGROBIO : Associação Portuguesa de Agricultura Biológica
+AFN : Autoridade Florestal Nacional
+OE : Operação Estatística
+RH : Recursos Humanos
+SMTP : Simple Mail Transfer Protocol
+DRGD/SIE/NLRE : Departamento de Recolha e Gestão de Dados/Serviço de Inquéritos por Entrevista/ Núcleo Local de Recolha Évora
+DRI/IE/NRE : Departamento de Recolha de Informação /Serviço de Inquéritos por Entrevista/ Núcleo de Recolha Évora
+PENT : Estratégico Nacional do Turismo
+DI : Serviço de Difusão
+RPU : Regime de Pagamento Único
+RICA : Rede de informação de contabilidade agrícola
+DRI/IAP/NRL5 : Departamento de Recolha de Informação / Núcleo de Recolha Lisboa 5
+UA : Unidade de Alojamento
+WEBINQ : Inquéritos do INE na Web
+HSDPA : High Speed Downlink Packet Access
+NES : Núcleo de Educação para a Saúde
+PES : Promoção e Educação para a Saúde
+NESASE : Grupo de Trabalho de Educação Sexual-Saúde
+NABS : Nomenclature of the analysis and comparison of science programmes and budgets
+CGA : Classificação Geral de Atividades
+DCN/CTAC : Departamento de Contas Nacionais / Serviço de Contas Trimestrais e de Análise de Conjuntura
+DM : Departamento de Matéria
+IPHH : Inquérito à Permanência de Hóspedes e Outros Dados da Hotelaria
+RNCCI : Rede Nacional de Cuidados Continuados Integrados
+ACS : Alto Comissário da Saúde
+EPE : Entidade Pública Empresarial
+SRS : Sub-Região de Saúde
+SUB : Serviço de Urgência Básica
+ICS : Inquérito aos Centros de Saúde
+VAB cf : Valor Acrescentado Bruto ao Custo de Fatores
+VAL cf : Valor Acrescentado Líquido a Custo de Fatores
+VAB per capita : Valor Acrescentado Bruto Per Capita
+IMT : Imposto Municipal Sobre as Transmissões Onerosas de Imóveis
+IMI : Imposto Municipal Sobre Imóveis
+PIBpm : Produto Interno Bruto a Preços de Mercado
+PIBR : Produto Interno Bruto Regional
+NIPC : Número de Identificação de Pessoa Coletiva
+IVNECR : Índices de Volume de Negócios e Emprego no Comércio a Retalho
+CLIP : Créditos de Sistema de Leilão do Investimento Público
+CEF : Cursos de Educação e Formação para Jovens
+SIPCH : Sistema de Indicadores de Preços na Construção e Habitação
+IABH : Inquérito à Avaliação Bancária na Habitação
+PGP : Pretty Good Privacy
+PEE : Potencial de Efeito de Estufa
+ZPE : Zona de Proteção Especial
+ZEC : Zona Especial de Conservação
+SNC : Sistema de Normalização Contabilística
+IASB : International Accounting Standards Board
+IAS : International Accounting Standards
+IFRS : International Financial Reporting Standards
+IFRIC : International Financial Reporting Interpretations Committee
+NCRF : Norma Contabilistica e de Relato Financeiro
+NCRF-PE : Norma Contabilistica e de Relato Financeiro para Pequenas Entidades
+BADF : Bases para a Apresentação de Demonstrações Financeiras
+MDF : Modelo de Demonstrações Financeiras
+CC : Código de Contas
+NI : Norma interpretativa
+INTRASTAT : Estatísticas correntes do comércio intracomunitário
+CAC : Censo das Aves Comuns
+DOP : Denominação de Origem Protegida
+DPSIR : Driver Pressure State Impact Response Model
+FER : Fonte de Energia RenováveL
+IACZA : Índice de Aves Comuns de Zonas Agrícolas
+IRENA : Indicator Reporting on the Integration of Environmental Concerns into Agriculture Policy
+LQARS : Laboratório Químico Agrícola Rebelo da Silva
+MAA : Medidas Agroambientais
+RGA : Recenseamento Geral da Agricultura
+RURIS : Plano de Desenvolvimento Rural
+SPEA : Sociedade Portuguesa para o Estudo das Aves
+MBS : Margem Bruta Standard
+s.a. : Substância Ativa
+PF : Produtos Fitofarmacêuticos
+EBB : European Biodiesel Board
+AEC : Atividade de Enriquecimento Curricular
+IUTICE : Inquérito à Utilização de Tecnologias da Informação e da Comunicação nas Empresas
+IUTICH : Inquérito à Utilização de Tecnologias da Informação e da Comunicação nos Hospitais
+IUTICEH : Inquérito à Utilização de Tecnologias da Informação e da Comunicação nos Estabelecimentos Hoteleiros
+IUTICF : Inquérito à Utilização de Tecnologias da Informação e da Comunicação pelas Famílias
+GPAP : Gestão de processos de inquéritos por autopreenchimento
+GRESP : Gestão de Respondentes
+SIGINQ : Sistema Global de Gestão de inquéritos
+SCA : Subsistema de Correções Automáticas
+SCE : Subsistema de Cálculo e Especialização
+SRD : Sistema de Recolha de Dados
+IPPI : Índice de Preços na Produção Industrial
+IE : Indústria e Energia
+ICMO : Inquérito ao Custo da mão de obra
+IQCMO : Inquérito Quadrienal ao Custo da Mão de Obra
+RJS : Random Job Sampling
+ECI : Employment Cost Index
+IMOPPI : Instituto do Mercado de Obras Públicas e Particulares e do Imobiliário
+InCI : Instituto da Construção e do Imobiliário, I.P.
+IPMRRH : Índice de Preços de Manutenção e Reparação Regular da Habitação
+IPCOL : Inquérito à Permanência de Colonos nas Colónias de Férias
+IPCOLA : Anexo sobre a Capacidade de Alojamento e Pessoal ao Serviço nas Colónias de Férias
+PCIPSS : Plano de Contas das Instituições Particulares de Solidariedade Social
+ISS : Instituto de Segurança Social, IP
+EPPS : Escalões de Prestações de Proteção Social
+CAT : Centro de Acolhimento Temporário
+UAI : Unidade de Apoio Integrado
+ASM : Associação de Socorros Mútuos
+PCAM : Plano de Contas das Associações Mutualistas
+IASM : Inquérito às Associações de Socorros Mútuos
+IDF : Inquérito às Despesas das Famílias
+IDEF : Inquérito às Despesas das Famílias
+TPA : Terminal de pagamento automático
+SIBS : Sociedade Interbancária de Serviços
+SRU : Sociedade de Reabilitação Urbana.
+WiMAX : Worldwide Interoperability for Microwave Access
+PLC : Power Line Communications
+GPIE : Gestão de processos de inquéritos por entrevista
+PPR : Plano Poupança Reforma
+DRI/IAP : Departamento de Recolha de Informação/ Serviço de Inquéritos por Autopreenchimento
+IRN : Instituto dos Registos e do Notariado
+IMTT : Instituto da Mobilidade e dos Transportes Terrestres, I. P.
+IMT : Instituto da Mobilidade e dos Transportes
+ITENF : Inquérito Trimestral às Empresas Não Financeiras
+PTRE : Painel Trimestral de Empresas
+TA : Total Ativo
+VIMP : Valor de Importação
+VEXP : Valor de Exportação
+ADI : Apoio Domiciliario Integrado
+CATEI : Centro de Acolhimento Temporário de Emergência para Idosos
+RSI : Rendimento Social de Inserção
+UVAP : Unidade de Vida Apoiada
+UPRO : Unidade de Vida Protegida
+RMMG : Retribuição Mínima Mensal Garantida
+EIM : Empresa Intermunicipal
+EM : Empresa Municipal
+ISFF : Inquérito à Situação Financeira da Famílias
+HFCS : Household Finance and Consumption Survey
+EMIR : European Multiple Imputation Routines
+FRITZ : Federal Reserve Imputation Technique Zeta
+TF : Task Force
+SMI : Sistema de Metainformação
+WEBREG : Registo do inquéritos na WEB 
+ISCCT : Índice Sintético de Competitividade e Coesão Territorial
+ISDR : Índice Sintético de Desenvolvimento Regional
+PMOT : Plano Municipal de Ordenamento do Território
+UR : Universo de Referência
+UE : Unidade Estatística
+UIEemp : Universo dos Inquéritos de Estrutura às Empresas
+URveic : Universo de Referência aos Veículos Rodoviários
+UICveic : Universo de Veículos dos Inquéritos de Conjuntura
+URest : Universo de Referência aos Estabelecimentos
+URemp : Universo de Referência às Empresas
+UICest : Universo de Estabelecimentos dos Inquéritos de Conjuntura
+UIEest : Universo de Estabelecimentos dos Inquéritos de Estrutura
+UICemp : Universo dos Inquéritos de Conjuntura às Empresass
+ACES : Agrupamentos de Centros de Saúde do Serviço Nacional de Saúde
+UCSP : Unidade de Cuidados de Saúde Personalizados
+UCC : Unidade de Cuidados na Comunidade
+URAP : Unidade de Recursos Assistenciais Partilhados
+USF : Unidade de Saúde Familiar
+USP : Unidade de Saúde Pública
+ACSS : Administração Central do Sistema de Saúde, IP
+CS : Centros de Saúde
+ADUP : Área de Desenvolvimento Urbano Prioritário
+LGAEN : Linhas Gerais da Atividade Estatística Nacional
+IP : Instituto Público
+ICESD : Inquérito ao Consumo de Energia no Setor Doméstico
+AIE : Agência Internacional de Energia
+DOC : Denominação de Origem Controlada
+OCM : Organização Comum do Mercado
+DO : Denominação de origem
+IG : Indicação geográfica
+EC : Entidade certificadora
+IGP : Indicação Geográfica Protegida
+SIFIDE : Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial
+QCA III : Quadro Comunitário de Apoio III
+FUESEN : Ficheiro Único de Unidades Estatísticas do Sistema Estatístico Nacional
+Iberoeka : Cooperação Tecnológica e Empresarial com a América Latina
+COFACE : Compagnie Française d'Assurance pour le Commerce Extérieur
+CIP : Confederação da Indústria Portuguesa
+ISCTE : Instituto Superior das Ciências do Trabalho e da Empresa
+ISEGI : Instituto Superior de Estatística e Gestão de Informação
+SEAC 2011 : Secção Eventual para Acompanhamento dos Censos 2011
+STD : Sistema de Tratamento de Dados
+BDCNCINE : Base de dados de Conceitos do INE
+SRP : Subsistema de Recolha em Papel
+SCI : Sistema do Comércio Internacional
+SRW : Subsistema de Recolha Web
+CIF : Classificação Internacional de Funcionalidade, Incapacidade e Saúde
+SAP : Serviço de Atendimento Permanente
+DGO : Direção-Geral do Orçamento
+EPCC : Estudo sobre o Poder de Compra Concelhio
+IpC : Indicador per Capita
+FDR : Fator Dinamismo Relativo
+PRASD : Programa de Recuperação de Áreas e Setores Deprimidos
+DCN/CS : Departamento de Contas Nacionais/Serviço de Contas Satélite.
+DMSI/II : Departamento de Metodologias e Sistemas de Informação/Serviço de Infraestrutura Informacional.
+DCO : Data de Constituição
+SIT : Situação da Morada
+VI : Valor Imputado
+EPS : Escalão de Pessoas ao Serviço
+GPA : Gestão e Proteção do Ambiente
+ICCHN : Índice de Custos de Construção de Habitação Nova
+LNEC : Laboratório Nacional de Engenharia Civil
+DCN/ICP : Departamento de Contas Nacionais/Serviço de Indicadores de Curto Prazo
+AE : Amostra Europeia
+SICAE : Sistema de Informação da Classificação Portuguesa de Atividades Económicas
+SBS : Structural Business Statistics
+IVNEI : Índices de Volume de Negócios e Emprego na Indústria
+IERHTCOP : Índices de Emprego, Remunerações e Horas trabalhadas na Construção e Obras Públicas
+OICVM : Organismos de Investimento Coletivo em Valores Mobiliários
+VLGF : Valor Liquido Global do Fundo
+FUNGEPI : Fundos de Gestão de Património Imobiliário
+AEA : Agência Europeia do Ambiente
+LER : Lista Europeia de Resíduos
+SIRAPA : Sistema Integrado de Registo da Agência Portuguesa do Ambiente
+SRIR : Sistema de Registo de Informação sobre Resíduos
+INCM : Imprensa Nacional Casa da Moeda
+MIRR : Mapa Integrado de Registo de Resíduos
+CNO : Centros Novas Oportunidades
+MISI@ : Gabinete Coordenador do Sistema de Informação do Ministério de Educação
+SGFOR : Sistema de Gestão da Formação e Certificação
+SIGO : Sistema de Informação e Gestão da Oferta Educativa e Formativa
+CH : Construção e Habitação
+IVNES : Índices de Volume de Negócios e Emprego nos Serviços
+PRE-IPPI : Pré-inquérito
+GAI : Grandes Agrupamentos Industriais
+OAC : Observatório das Atividades Culturais
+DGARTES : Direção Geral das Artes
+CDH : Careers on Doctorate Holders
+DGAEP : Direção Geral da Administração e do Emprego Público
+PAPI : Paper and pencil interviewing
+GC : Gabinete dos Censos
+IE : Inquéritos por Entrevista
+CDH06 : Careers on Doctorate Holders 2006
+CDH09 : Careers on Doctorate Holders 2009
+DM : Serviço de Estatísticas Demográficas
+IE : Inquérito de Estrutura
+DPS : Distributed Problem Solving
+PASW : Predictive Analytics Software
+MRRU : Mapa de Registo de Resíduos Urbanos
+CPP : Classificação Portuguesa de Profissões
+ANTROP : Associação Nacional de Transportadores Rodoviários de Pesados de Passageiros
+GPERI : Gabinete de Planeamento Estratégico e Relações Internacionais
+SIGGESC : Sistema de Informação Geográfica de Gestão de Carreiras
+SAGR : Sistema de inquéritos agrícolas do INE
+DG AGRI : Directorate-General for Agriculture and Rural Development
+CRC : Conservatórias do Registo Civil
+BEA : Base de Explorações Agrícolas
+AHB : Associação humanitária de bombeiros
+ANPC : Autoridade Nacional de Proteção Civil
+RNBP : Recenseamento nacional dos bombeiros portugueses
+SNC-ESNL : Sistema de normalização contabilística - Entidades do sector não lucrativo
+IPAFO : Inquérito às plantações de árvores de fruto e oliveiras
+IEV : Inquérito aos espetáculos ao vivo
+AE : Autoridade estatística
+SEC : Secretaria de Estado da Cultura
+IRE : Inquérito aos recintos de espetáculos
+HABITA : Habitação e habitabilidade (módulo ICOR)
+APCT : Associação portuguesa para o controlo de tiragem e circulação
+IPP : Inquérito ás publicações periódicas
+SIM : Módulo de identidade do assinante
+GPS : Sistema de posicionamento global
+MMS : Multimedia Messaging Service
+3G : 3ª Geração (de comunicações móveis)
+2G : 2ª Geração (de comunicações móveis)
+e-Book : Electronic Book
+app : Aplicação (informática)
+MP3 : MPEG-1 Audio Layer 3
+DGEEC : Direção-Geral de Estatísticas da Educação e Ciência
+CAOP : Carta Administrativa Oficial de Portugal
+ICVG : Inquérito ao Sourcing e às Cadeias de Valor Globais
+BME : Boletim Mensal de Estatística
+AANP : Aquisição e Atribuição da Nacionalidade Portuguesa
+DGRN : Direção Geral dos Registos e Notariado
+SITPRO : Sistema Integrado de Tratamento Processual
+PEE : Programa Estatístico Europeu
+CRC : Conservatórias dos Registos Centrais
+IHSP : Inquérito aos Hospitais
+DRI/PR : Departamento de Recolha de Informação/Serviço de Processos de Recolha
+MF : Ministério das Finanças
+LCI : Labour Cost Index
+DSEE : Direção de Serviços de Estatísticas da Educação
+IJE : Inquérito à Justiça Económica
+FFMS : Fundação Francisco Manuel dos Santos
+CASES : Cooperativa António Sérgio para a Economia Social
+EVMP : European Volunteer Measurement Project
+ILO : International Labour Organization
+ITV : Inquérito ao Trabalho Voluntário
+IFPO : Inquérito à floricultura e plantas ornamentais
+APPPFN : Associação portuguesa de produtores de plantas e flores naturais
+EMAS : Sistema comunitário de ecogestão e auditoria
+IMUS : Inquérito aos museus
+EGMUS : European Group on Museum Statistics
+JZBA : Inquérito aos Jardins Zoológicos, Botânicos e Aquários
+SNIRA : Sistema Nacional de Informação e Registo Animal
+DGAV : Direção Geral de Alimentação e Veterinária
+EEA : Estatísticas dos Efetivos Animais
+ITRP : Inquérito ao Transporte Rodoviário de Passageiros
+IRH : Inquérito às rendas de habitação
+NRAU : Novo regime do arrendamento urbano
+DCN/PC : Departamento de Contas Nacionais/Preços no Consumidor
+IMAMI : Inquérito mensal aos aviários de multiplicação e incubadoras
+IMIEA : Inquérito mensal à importação e exportação de aves do dia
+IMLV : Inquérito mensal ao leite de vaca e produtos lácteos
+IVAFO : Inquérito à venda de árvores de fruto e oliveiras
+DSECTSI : Direção de Serviços de Estatística da Ciência e Tecnologia e da Sociedade da Informação
+IH : Inquérito à Horticultura
+IMAOC : Inquérito Mensal aos Aviários de Produção de Ovos para Consumo
+IATI : Inquérito á Aquisição de Tomate para a Indústria.
+IMGA : Inquérito mensal ao gado abatido
+IMAAC : Inquérito  ao Abate de Aves e Coelhos Aprovados para Consumo Público
+IFEC : Inquérito à Fecundidade
+ICHS : Inquérito à Caracterização da Habitação Social
+BO : Business Objects
+IPCAMP : Inquérito à Permanência de Campistas em Parques de Campismo
+IDR : Inquérito às Deslocações dos Residentes
+IARTL : Inquérito à Recolha, Tratamento e Transformção de Leite
+ICG : Inquérito aos Campos de Golfe
+ASSPAT : Inquérito às Associações, Uniões, Federações  e Confederações Patronais
+GEE/ME : Gabinete de Estratégia e Estudos do Ministério da Economia
+GEE/MEE : Gabinete de Estratégia e Estudos do Ministério da Economia e do Emprego
+IGDT : Inquérito aos Ganhos e Duração do Trabalho
+OE : Orçamento de Estado
+RAIDES : Inquérito ao Registo de Alunos Inscritos e Diplomados do Ensino Superior
+AT : Autoridade Tributária e Aduaneira
+kb/s : kilobits por segundo
+DSLM : Digital Subscriber Line Access Multiplexer
+ECDC : Centro Europeu de Controlo das Doenças
+SIDA : Síndrome da Imunodeficiência Adquirida
+TESSy : Sistema Europeu de Vigilância
+ARGUS : Anti-Re-identification General Utility System
+µ-ARGUS : mu-ARGUS
+t-ARGUS : tau-ARGUS
+IAMPL : Inquérito Anual ao Manifesto de Produção de Lã
+GTCS : Grupo de Trabalho de Estatísticas do Comércio e Serviços
+MTE : Modernização Tecnológica das Escolas
+IREP : Inquérito aos Trabalhos de Reparação ¿ Comércio Internacional
+APED : Associação Portuguesa de Empresas de Distribuição
+CMV : Custo das Mercadorias Vendidas
+ITFPV : Inquérito ao Transporte Fluvial de Passageiros e Veículos
+EEEC : Equipa de Estudos de Educação e Ciência
+CC : Cartão do Cidadão
+BI : Bilhete de Identidade
+IMIIGD : Inquérito aos Municípios sobre o Impacto dos Incêndios de Grande Dimensão
+NIB : Número de Identificação  Bancária
+SEAL : Secretaria de Estado da Administração Local
+DECT : Divisão de Estatísticas de Ciência e Tecnologia
+DGRM : Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos
+IAPM : Inquérito Anual aos Pescadores Matriculados por Segmento de Pesca
+IARES : Inquérito Anual à Indústria da Primeira Transformação de Resina
+IFAC : Inquérito ao Financiamento das Atividades Culturais, Criativas e Desportivas pela Câmaras Municipais
+DMEP : Documento Metodológico das Estatísticas Portuguesas
+ST : Especificidades das Explorações Agrícolas
+IPMC : Inquérito aos Preços de Materiais de Construção
+PIPMC : Preparação do Inquérito aos Preços de Materiais de Construção
+ANAM : Aeroportos e Navegação Aérea da Madeira
+DRADR/AÇORES : Direção Regional de Agricultura e Desenvolvimento Rural (Açores)
+DRADR/MADEIRA : Direção Regional de Agricultura e Desenvolvimento Rural (Madeira)
+SIMA : Sistema de Informação dos Mercados Agrícolas
+ICIT : Inquérito Qualitativo de Conjuntura à Indústria Transformadora
+ICS : Inquérito Qualitativo de Conjuntura aos Serviços
+ICC : Inquérito Qualitativo de Conjuntura ao Comércio
+ICCOP : Inquérito Qualitativo de Conjuntura à Construção e Obras Públicas
+PEPS : Programa de Emprego e Proteção Social
+ABAE : Associação Bandeira Azul da Europa
+BM : Banco Mundial
+EPO : Gabinete Europeu de Patentes
+EQLS : Inquérito Europeu sobre Qualidade de Vida
+ERSAR : Entidade Reguladora dos Serviços de Águas e Resíduos
+ESS : Inquérito Social Europeu
+EUROFOUND : Fundação Europeia para a Melhoria das Condições de Vida e de Trabalho
+PISA : Programa Internacional de Avaliação de Alunos
+SCI : Science Citation Index
+USPTO : Gabinete de Marcas e Patentes dos EUA
+NIFAP : Número de identificação de beneficiário do Instituto de Financiamento da Agricultura e Pescas
+NINGA : Número de identificação de beneficiário do Instituto Nacional de Intervenção e Garantia Agrícola
+EAIDENT : Código de Identificação da Exploração Agrícola
+SIC : Sítios de Importância Comunitária
+ARIMA : Modelo Auto-regressivo Integrado de Média Móvel
+IBE : Índice de Bem Estar
+INSEE : Institut National de la Statistique et des Études Économiques
+EAPR : Estimativas anuais de população residente
+EMPR : Estimativas mensais de população residente
+TCM : Tábuas Completas de Mortalidade
+FNA : Ficheiro Nacional de Alojamentos
+MIA : Módulo de Instalações de Aplicações
+PSU : Primary Sampling Unit
+SICC : Sistema Integrado de Centro de Contactos
+AR  : Modelo Autoregressivo
+MA   : Modelo de Média Móvel
+ARMA  : Autoregressive Moving Average  
+SARIMA  : Modelo Autoregressivo Integrado de Média Móvel com componente sazonal
+ACAP : Associação Automóvel de Portugal
+IPI : Índice de Produção Industrial
+IVNE : Índices de Volume de Negócios e Emprego
+FNAP : Federação Nacional dos Apicultores de Portugal
+IPAMAC : Inquérito aos Preços nos Armazenistas de Materiais de Aço para a Construção
+SIEP : Síntese Estatística de Emprego Público
+ITPPA : Inquérito Trimestral aos Preços de Produtos Agrícolas
+ITPMPA : Inquérito Trimestral aos Preços dos Meios de Produção na Agricultura
+NEE : Necessidades Especiais de Educação
+SMMT : Situação dos Migrantes e seus Descendentes no Mercado de Trabalho
+ISF : Índice Sintético de Fecundidade
+FAQ : Perguntas Mais Frequentes
+ICI : Inquérito Qualitativo de Conjuntura ao Investimento
+IQC : Inquérito Qualitativo de Conjuntura
+PL : Língua Processual (ou de Trabalho)
+CAE-Rev.1 : Classificação das Atividades Económicas Portuguesa por Ramos de Atividade, Revisão 1
+ITF : Fórum Internacional de Transportes
+UL : Unidade Local
+DSPIE : Direção de Produção de Informação do Emprego
+INSPIRE : Infraestructure for Spacial Information in the European Community
+CGCE : Classificação por Grandes Categorias Económicas
+IPEB : Inquérito sobre Perspetivas de Exportação de Bens
+TxVar : Taxa de Variação
+PP : Pontos Percentuais
+INS : Inquérito Nacional de Saúde
+EHIS : Inquérito Europeu de Saúde por Entrevista
+CAWI : Computer Assisted Web Interviewing
+VPA : Venda de Produtos Acabados
+BIS : Bank for International Settlements
+IPHab : Índice de Preços da Habitação
+m2 : Metro Quadrado
+OLS : Ordinary Least Squares
+NT : Natureza da Transação
+ZEU : Zona Euro
+EXTRASTAT : Estatísticas Correntes do Comércio Extracomunitário
+EACT : Escalões de Total de Ativo
+EEXP : Escalões de Total de Exportações
+EIMP : Escalões de Total de Importações
+IMPI : Inquérito Mensal à Produção Industrial
+GHz : Gigahertz
+AE : Área Euro
+IQCC : Inquérito Qualitativo de Conjuntura aos Consumidores
+COICOP : Classification of Individual Consumption by Purpose
+IOF : Inquérito aos Orçamentos Familiares
+IRDF : Inquérito às Receitas e Despesas Familiares
+OHCHR : Alto Comissariado para os Direitos Humanos
+IPMA : Inquérito Piloto Mobilidade na Aprendizagem
+IQCCN : Inquérito Qualitativo de Conjuntura aos Consumidores Nova Amostra
+IPRAF : Inquérito Piloto sobre o Rendimento do Agregado Familiar
+RU : Relatório Único
+ISPC : Inquérito aos Salários por Profissões na Construção
+IPPIME : Índices de Preços na Produção de Produtos Industriais no Mercado Externo
+SIGINQ-IAP : Sistema global de gestão de inquéritos para inquéritos por auto-preenchimento
+SIGINQ-IE : Sistema global de gestão de inquéritos para inquéritos por entrevista
+SIGUA-UA : Sistema Integrado de gestão de universos e amostras para unidades de alojamento
+ADSE : Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas.
+COGS : Cost of Goods Sold
+EBRD : European banc for reconstruction and development
+IPCol : Inquérito à Permanência nas Colonias de Férias
+IPHH : Inquérito à Permanência de Hóspedes na Hotelaria e Outros Alojamentos
+HSB : Household Budget Surveys
+DG SANCO : Directorate-General for Health and Consumers 
+PSC : Participação Social e Cultural
+CIRS : Código do Imposto Sobre o Rendimento das Pessoas Singulares
+DDCCFF : Distrito/Município/Freguesia
+EIRL : Estabelecimento Individual de Responsabilidade Limitada
+NPR : Número de Pessoas Remuneradas
+OTTT : Organização do Trabalho e do Tempo de Trabalho
+EMED : Estimativas Mensais de Emprego e Desemprego
+PEEIs : Principal European Economic Indicators
+APIAM : Associação Portuguesa de Industriais de Águas Minerais Naturais e de Nascente
+ITI : Inquérito ao Turismo Internacional
+OSERAM : Observatório do Sistema Educativo da Região Autónoma da Madeira
+IGA : Investimentos e Gestão da Água, S.A.
+ICRPMA : Inquérito ás Carreiras Regulares de Passageiros por Meio de Autocarro
+InIR : Instituto de Infraestruturas Rodoviárias, I.P.
+MAOTE : MINISTÉRIO DO AMBIENTE, ORDENAMENTO DO TERRITÓRIO E ENERGIA
+IATM : Inquérito Anual ao Transporte por Metropolitano
+ITM : Inquérito ao Transporte por Metropolitano
+ITTM : Inquérito Trimestral ao Transporte por Metropolitano
+SPPT : Saída de Produtos da Pesca Transformados
+CEPEJ : Comissão Europeia para a Eficiência da Justiça
+DSEJI : Direção de Serviços de Estatísticas da Justiça e Informática
+GRAL : Gabinete de Resolução Alternativa de Litígios
+IMC : Inquérito Mensal ao Cinema
+IUC : Imposto Único de Circulação
+CENSOS : Recenseamento geral da população e recenseamento geral da habitação
+UCI : Unidade de Cuidados Intensivos
+UCIM : Unidade de Cuidados Intermédios
+JMT : Jovens no Mercado de Trabalho
+PRIES : Plataforma de Recolha de Informação do Ensino Superior
+IMPIC, I.P. : Instituto dos Mercados Públicos, do Imobiliário e da Construção
+112 : Número Europeu de Emergência
+CODU : Centro de Orientação de Doentes Urgentes
+INEM : Instituto Nacional de Emergência Médica
+SIADEM : Sistema Integrado de Atendimento e Despacho de Emergência Médica
+SIEM : Sistema Integrado de Emergência Médica
+IEG : Inquérito à Estrutura dos Ganhos
+ORCID : Open Researcher and Contributor ID
+DEEBS : Divisão de Estatísticas do Ensino Básico e Secundário
+AS : Acesso aos Serviços
+APCMC : Associação Portuguesa de Comerciantes de Materiais de Construção
+RUMOS : Programa Operacional de Valorização do Potencial Humano e Coesão Social da RAM
+BPR : Base de População Residente
+BDIC : Base de Dados de Identificação Civil
+SICO : Sistema de Informação dos Certificados de Óbito
+COD : Óbitos por Causas de Morte
+CO : Certificados de Óbito
+RNU : Registo Nacional de Utentes
+IGEET : Inquérito às galerias de arte e outros espaços de exposições temporárias
+INECOP : Índice de Novas Encomendas na Construção e Obras Públicas
+IUTIC/CM : Inquérito á Utilização das Tecnologias da Informação e da Comunicação nas Câmaras Municipais
+IUTIC/AP : Inquérito á Utilização das Tecnologias da Informação e da Comunicação na Administração Pública
+SEC (2010) : Sistema Europeu de Contas Nacionais e Regionais, 2010
+ECP : Emprego por Conta Própria
+INERPA : Inventário Nacional de Emissões antropogénicas por fontes e remoção por sumidores de poluentes atmosféricos
+APISOLAR : Associação Portuguesa da Indústria Solar
+BE : Balanço Energético
+CELE   : Comércio Europeu de Licenças de Emissão
+ICNF : Instituto da Conservação da Natureza e das Florestas
+PCI : Poder Calorífico Inferior
+REN  : Rede Elétrica Nacional
+CHP : Combined Heat and Power Generation
+GN : Gás Natural
+CV : Cavalo vapor (0.745 kW)
+RPM : Rotações Por Minuto
+EurObserv ' ER : Observatório Europeu das Energias Renováveis
+PRE  : Produção em Regime Especial
+SMP : Sistemas de Mediação Pública
+HP : Horse Power
+NG : Natural Gas
+EU ETS : EU Emissions Trading System
+TSO : Transmission System Operator
+SRG : SPECIAL REGIME GENERATION
+VDSL : High-level Digital Subscriber Line
+Mbit/s : Mega bits
+RFID : Radio-Frequency Identification 
+ERSARA : Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
+PREMAC : Plano de Redução e Melhoria da Administração Central
+SPUSA/VFF : Sistemas Públicos Urbanos dos Serviços de Águas/Vertente Física e de Funcionamento
+PPC : Paridade de Poder de Compra
+PPS : Purchasing Power Standard
+SSC : Saúde S saúde das Crianças
+RC : Riqueza e Consumo
+SE : Sobre-endividamento
+DRP RAA : Direção Regional das Pescas dos Açores
+DRP RAM : Direção Regional das Pescas da Madeira
+DRRF RAA : Direção Regional dos Recursos Florestais dos Açores
+IFCN RAM : Instituto das Florestas e Conservação da Natureza, IP-RAM
+SIBS FPS : SIBS - Forward Payment Solutions, S.A.
+GLM : Modelo Linear Generalizado
+PLC : Poisson Lee-Carter
+LC : Lee-Carter
+SVD : Singular Value Decomposition
+DRIG : Direção Regional de Inovação e Gestão
+RENATES : Registo Nacional de Temas de Teses de Doutoramento em Curso e de Doutoramentos Concluídos
+IAFAGP : Inquérito ao Ambiente, Financiamento das Atividades de Gestão e Proteção
+ARM : Águas e Resíduos da Madeira, S.A.
+EG : Entidade gestora
+SPUSA/VEF : Sistemas Públicos Urbanos de Serviços de Águas/Vertente Económico-Financeira
+HFCN : Household Finance and Consumption Network
+IPPCom : Índice de Preços das Propriedades Comerciais
+ISTAT : Istituto Nazionale di Statistica
+ME : Médias empresas
+IACC : Inquérito aos Custos de Contexto
+GE : Grandes empresas
+MC : Microempresas
+PE : Pequenas empresas
+IMOB : Inquérito à Mobilidade nas Áreas Metropolitanas do Porto e de Lisboa
+CVPF : Conciliação da vida profissional com a vida familiar
+IPG : Inquérito às práticas de gestão
+IAPPA : Inquérito Anual aos Preços de Produtos Agrícolas
+EPEIE : Equipa multidisciplinar de Produção Estatística através de Inquéritos e Estimativas
+BEDH : Bem-estar e dificuldades habitacionais
+GQE : Grau de Qualidade do Endereço
+TIPAU : Tipologia de Áreas Urbanas
+GC 2021 : Gabinete para os Censos 2021
+ESSPROS : European System of Integrated Social Protection Statistics
+ITF : Inquérito ao Transporte Fluvial
+REA : Recenseamento Escolar Anual
+TC2018 : Teste Censos 2018
+IGFEJ : Instituto de Gestão Financeira e Equipamentos da Justiça
+EAD : Exame auxiliar de diagnóstico
+ECCI : Equipa de cuidados continuados integrados
+GC : Gabinete do cidadão
+MAD : Meio auxiliar de diagnóstico
+MAT : Meio auxiliar de terapêutica
+MCD : Meio complementar de diagnóstico
+MCT : Meio complementar de terapêutica
+MGF : Medicina Geral e Familiar
+PMR : População média residente
+PORDATA : Base de Dados de Portugal Contemporâneo
+SRSA : Secretaria Regional de Saúde dos Açores
+SESARAM, EPE : Serviço de Saúde da Região Autónoma da Madeira, EPE
+UAG : Unidade de apoio à gestão
+ULS : Unidade local de saúde
+USI : Unidade de saúde de ilha
+SEH : Secretaria de Estado da Habitação
+FRIBS : Framework Regulation Integrating Business Statistics
+MEETS : Modernization of European Enterprise and Trade Statistics
+IUPCSP : Inquérito às Unidades Prestadoras de Cuidados de Saúde Primários
+ERHAB_Local : Estatísticas de Rendas da Habitação ao nível local
+TAC : Total admissível de captura
+FESSI : Famílias da Economia Social por Sector Institucional
+CIISFL : Classificação Internacional das Instituições Sem Fins Lucrativos
+ICNP-TSO : International Classification of Nonprofit - Third Sector Organizations
+CIOSFL-TS : Classificação Internacional de Organizações Sem Fins Lucrativos - Terceiro Setor
+DMR/SS  : Declaração Mensal de Remunerações da Segurança Social
+PAT  : Produtos Acabados - Total
+PST  : Prestação de Serviços - Total
+VMT : Vendas de Mercadorias - Total
+EPHAB-Local  : Estatísticas de Preços da Habitação ao nível local
+LUCAS : Land Use and Cover Area frame Survey
+LCLUStats : Land Cover Land Use Statistics
+COS : Carta de Uso e Ocupação do Solo
+ODS : Objetivos de Desenvolvimento Sustentável
+UN-GGIM : United Nations ¿ Global Geospatial Information Management
+DGT : Direção-Geral do Território
+ITRF : International Terrestrial Reference Frame
+UTM : Universal Transverse Mercator
+ADENE : Agência para a Energia
+UMC : Unidade Mínima Cartográfica
+IMVC : Inquérito Mensal às Vendas de Cimento.
+ICTE : Índice de Custo do Trabalho Empresa
+LCS  : Labour Cost Survey
+ICAO : International Civil Aviation Organization
+COFOG : Classification of the functions of government
+CAOES : Classificação das atividades das organizações da economia social
+CC : Classificação dos trabalhos de construção
+CCIO : Classificação portuguesa do consumo individual por objetivo
+CEPF : Classification of Environmental Protection Facilities
+CER : Catálogo europeu de resíduos
+EWC : European waste catalogue
+CER-STAT : Catálogo europeu de resíduos - categorias estatísticas
+CETE : Classificação de mercadorias para as Estatísticas dos Transportes na Europa
+CFISFL : Classificação Portuguesa das Funções das Instituições Sem Fins Lucrativos ao Serviço das Famílias
+NPISHS : Non-Profit Institution Serving Households
+BEC : Broad Economic Categories
+ICHA-HC : International Classification for Health Accounts: functions of healthcare
+EWC-Stat : European Waste Catalogue - Statistical categories
+CSTE : Commodity Classification for Statistics of Transport in Europe
+CFAP : Classificação portuguesa das Funções das Administrações Públicas
+ICF : International Classification of Functioning, disability and health
+ICNPO : International Classification of Non-Profit Organizations
+CISP : Classificação Internacional da Situação na Profissão
+ICSE : International Classification of Status in Employment
+CITA : Classificação Internacional Tipo, por Indústria, de todos os Ramos de Atividade Económica
+ISIC : International Standard Industrial Classification of All Economic Activities  
+CITE-F  : Classificação Internacional Tipo de Educação - áreas de educação e formação
+ISCED-F : International Standard Classification of Education - fields of education and training 
+CITP : Classificação Internacional Tipo de Profissões
+CLUSTERS : Classification for Land Use Statistics: Eurostat Remote Sensing programme
+ECOICOP : European Classification of Individual Consumption by Purpose
+COICOP-HBS : Classification of Individual Consumption by Purpose adapted to the needs of Household Budget surveys
+COICOP-HICP : Classification of Individual Consumption by Purpose adapted Harmonized Indices of Consumer Prices
+COPNI : Classification of the Purposes of Private Non Profit institutions serving households
+COPP : Classification of Outlays of Producers by Purpose
+SITC : Standard International Trade Classification
+DEGURBA : Degree of urbanisation
+FORD : Fields of research and development
+MIGs : Main Industrial Groupings
+GEONOM : Nomenclature of Countries and Territories  for the External Trade Statistics of the Community and Statistics of Trade between Member States
+ICHA : International Classification for Health Accounts
+ESOD : European Schedule of Occupational Diseases
+EEA : European Economic Area
+IAEC : Inquérito Anual às Empresas de Construção
+IES : Instituição de Ensino Superior
+IES : Instituição de Ensino Superior
+NEEES   : Necessidades Especiais de Educação no Ensino Superior          
+CAF : Common Assessment Framework
+CMF : Common Metadata Framework
+CSPA : Common Statistical Production Architecture
+DDI : Data Documentation Initiative
+EHQMR : ESS Handbook for Quality and Metadata Reports
+EHQR : ESS Handbook for Quality Reports
+ESCoP : European Statistics Code of Practice
+CoP :  Code of Practice
+CCEE : Código de Conduta para as Estatísticas Europeias
+ESMS : Euro-SDMX Metadata Structure
+ESQR : ESS Standard for Quality Report
+ESQRS : ESS Standard for Quality Reports Structure
+ESSC : European Statistical System Committee
+ESS QAF   : European Statistical System Quality Assurance Framework
+ESS-MH : European Statistical System - Metadata Handler
+GSBPM : Generic Statistical Business Process Model
+GSIM : Generic Statistical Information Model
+NSI : National statistical institute
+MCV : Metadata Common Vocabulary
+NRME : National Reference Metadata Editor
+QAF : Quality assurance framework
+QMS : Quality management system
+QPI : Quality performance indicator
+ROSCs : Reports on the Observance of Standards and Codes
+SDC : Statistical disclosure control
+SDL : Statistical disclosure limitation
+ESS : European Statistical System
+SIMS : Single Integrated Metadata Structure
+LOW : List of wastes
+CN : Combined Nomenclature
+OECD : Organisation for Economic Co-operation and Development
+OPEC : Organization of Petroleum Exporting Countries
+POCISSSS : Plano oficial de contabilidade das instituições públicas do sistema de solidariedade e de segurança social
+POCMS : Plano oficial de contabilidade do Ministério da Saúde
+POCP : Plano oficial de contabilidade pública
+PROFAC : Plano oficial de contabilidade para as federações desportivas, associações e agrupamentos de clubes
+PRODCOM list : Llist of products of the european community
+HS : Harmonized commodity description and coding system
+SNAP : Selected nomenclature for air pollution
+EU : European Union
+OMI : Organização Marítima Internacional
+IMO : International maritime organization
+SNA : System of National Accounts
+SCN : Sistema de contas nacionais
+ESA : The European System of National and Regional Accounts
+BR : Business register
+SDMX : Statistical data and metadata exchange
+AETS : Adult Education and Training Survey
+UN : United Nations
+HBS : Household budget survey 
+HICP : Harmonised index of consumer prices
+IMF : International Monetary Fund
+OMA : Organização Mundial das Alfândegas
+WCO : World Customs Organization
+WHO : World Health Organization
+UNWTO : World Tourism Organization 
+CCT : Common Customs Tariff
+ISWGNA : Inter-Secretariat Working Group on National Accounts
+NPCN : Nomenclatura de produtos das contas nacionais
+NPICN : Nomenclatura de produtos de investimento das contas nacionais 
+NRCN : Nomenclatura de ramos das contas nacionais
+NSI : Nomenclatura dos sectores institucionais 
+NST : Standard goods classification for transport statistics
+CID 9 : Classificação internacional de doenças, 9ª revisão
+ICD 9 : International statistical classification of diseases, 9th revision
+ICD 10 : International Statistical Classification of Diseases and Related Health Problems, 10th Revision
+CID 10 : Classificação Internacional de Doenças e problemas relacionados com a saúde, 10ª revisão
+IEA  : Importação e Exportação de Aves do Dia
+IEV : Inquérito aos Espetáculos ao Vivo
+IRACA : Inspeção Regional das Atividades Culturais dos Açores
+IRE : Inspeção Regional de Espetáculos 
+MC/GEPAC : Ministério da Cultura/Gabinete de Estratégia, Planeamento e Avaliação Culturais
+DGES : Direção-Geral do Ensino Superior
+IEESP : Inquérito ao Emprego no Ensino Superior Público
+DRGD   : Departamento de Recolha e gestão de Dados 
+SAD  : Serviços de Assistência na Doença 
+AIPD : Avaliação de Impacto sobre Proteção de Dados
+RGPD : Regulamento Geral de Proteção de Dados
+IPPSTRM : Inquérito aos Preços na Produção de Serviços - Transporte Rodoviário de Mercadorias
+ISEPP : Inquérito Piloto sobre Segurança  no espaço público e Privado
+OASIS : Ongoing Assessment of Social Impacts 
+PSIA : Poverty Social Impact Assessment 
+ACFA  : Associação com fins altruísticos
+SCA  : Aubsector Comunitário Autogestionário
+BSc : Balanced Scorecard
+SROI : Social Return on Investment 
+SCBA : Social Costs-Benefit Analysis 
+ISES : Inquérito ao Setor da Economia Social
+RTE : Recursos Tecnológicos das Escolas
+DG SANTE : Directorate-General for Health and Food Safety
+DG CLIMA : Directorate-General for Climate Action 
+DG ENV : Directorate-General for Environment  
+JRC : Joint Research Centre
+EEA : European Environment Agency
+RIS : Regional Innovation Scoreboard
+DTH : Direct to Home
+CTUP : Custos do trabalhador por unidade produzida
+IFEC 2019 : Inquérito à Fecundidade 2019
+EEA grants : European Economic Area Grants
+DOCSIS : Data Over Cable Service Interface Specification 
+RevPAR : Revenue per available room 
+ADR : Average daily rate
+IDEA : Institute for Democracy and Electoral Assistance Institute 
+SIIAL : Sistema Integrado de Informação das Autarquias Locais 
+IHPARA : Inquérito aos hospitais privados, públicos de acesso restrito e das regiões autónomas
+SPMS : Serviços Partilhados do Ministério da Saúde
+SPMS : Serviços Partilhados do Ministério da Saúde
+CECAF : Fishery Committee for the Eastern Central Atlantic 
+CTOI : Comissão dos Tunídeos do Oceano Índico
+DGMARE : Directorate-General for Maritime Affairs and Fisheries
+EFCA : European Fisheries Control Agency 
+EP : Estatísticas da Pesca
+ICCAT : International Comission for the Conservation of Atlantic Tunas
+ICES : International Council for the Exploration of the Sea
+IPMA : Instituto Português do Mar e da Atmosfera
+DPPN : Descarga de Pesca em Portos Nacionais 
+MM : Ministério do Mar
+CCTEP : Comité Científico, Técnico e Económico da Pesca 
+EAQUI : Estatísticas da Aquicultura
+CATLN : Capturas no Atlântico Norte
+CFATLN : Capturas Fora do Atlântico Norte
+DP : Diário de Pesca em papel 
+DPE : Diário de Pesca Eletrónico
+DEES : Divisão de Estatísticas do Ensino Superior
+ETER : European Tertiary Education Register
+ERHES : Estatísticas dos Recursos Humanos do Ensino Superior
+OEI : Organização de Estados Ibero-Americanos
+DEE/EE : Departamento de Estatísticas Económicas/Serviço de Estatísticas da Economia Externa
+NPI : Non-Profit Institution 
+IoT : Internet of Things
+IINQE : Inquérito à Identificação das Necessidades de Qualificações nas Empresas 
+SANQ : Sistema de Antecipação de Necessidades de Qualificações
+SILiAmb  : Sistema Integrado de Licenciamento do Ambiente
+SIRER : Sistema Integrado de Registo Eletrónico de Resíduos
+AD&C : Agência para o Desenvolvimento e Coesão
+AHRESP : Associação da Hotelaria, Restauração e Similares de Portugal
+ASAE : Agência de Segurança Alimentar e Económica
+BAA : Base de Amostragem Agrícola
+BGE : Base Geográfica de Edifícios  
+BSA : Base de Segmentos de Arruamentos
+CADA : Comissão de Acesso aos Documentos Administrativos
+CIG : Comissão para a Cidadania e a Igualdade de Género
+CPVC : Comissão de Proteção às Vítimas de Crimes
+MAAC : Ministério do Ambiente e Ação climática
+ANI : Agência Nacional de Inovação
+ANI : Agência Nacional de Inovação
+EMID : Equipa para a Monitorização da Investigação e Desenvolvimento
+IGeFE : Instituto de Gestão Financeira da Educação
+CPET : Consumo, Património, Endividamento eTrabalho 
+VAR : Modelo Vetorial Autoregressivo 
+MQO : Método dos mínimos Quadrados Ordinários
+MQO :  Mínimos Quadrados Ordinários 
+COVID-IREE  : COVID-Inquérito Rápido e Excecional às Empresas
+COVID : Coronavirus Disease
+COVID-19 : Coronavirus Disease 2019
+RU : Resíduos Urbanos
+DGIR   : Divisão de Gestão da Informação de Resíduos -  
+SGRU : Sistema de Gestão de Resíduos Urbanos
+DRES  : Departamento de Resíduos
+GP : Grandes Produtores
+RGGR   : Regime Geral da Gestão de Resíduos  
+SGIR   : Sistema de Gestão de Informação sobre Resíduos  
+µm : micrómetro
+W/m²  : watt por metro quadrado
+teste : -
+TC2020  : Teste Censos 2020.
+IESS : Integrated European Social Statistic 
+PJ : Polícia Judiciária
+PJM : Polícia Judiciária Militar
+PM : Polícia Marítima
+PSP : Polícia de Segurança Pública
+GNR : Guarda Nacional Republicana
+DEJ : Divisão das Estatísticas da Justiça
+DEGADI : Divisão de Estudos e Gestão de Acesso a Dados para Investigação
+EGRU : Entidade Gestora de Resíduos Urbanos
+ IEGRU : Inquérito às Entidades Gestoras de Resíduos Urbanos 
+ IMPA : Inquérito aos Municípios - Proteção do Ambiente
+ILO : Inquérito à locação Operacional
+BTU : British Thermal Unit
+CPE : Código de Ponto de Entrega
+CUI : Código Universal da Instalação
+DEE/SE : Departamento de Estatísticas Económicas / Serviço de Estatísticas Sectoriais das Empresas
+OLMC : Operador Logístico de Mudança de Comercializador
+PNEC : Plano Nacional Energia e Clima
+SCE : Sistema de Certificação Energética dos Edifícios
+SEN : Sistema Elétrico Nacional
+SNGN : Sistema Nacional de Gás Natural
+MATE  : Ministério do Ambiente e da Transição Energética.
+IVU : Índice de valor unitário
+UVI : Unit Value Index
+EMP  : Equivalentes de matéria-prima 
+RME  : Raw material equivalents 
+CMP : Consumo de matérias-primas
+RMC : Raw material consumption 
+CVSC : Condições de vida e situação das crianças que vivem em famílias separadas ou reconstituídas
+SPMC  : Saúde e Privação Material das Crianças
+OECD : Observatório do Emprego Científico e Docente
+IPND : Inquérito ao Pessoal não Docente:
+INDEZ :  Inquérito aos docentes em Dezembro;
+IECDES : Inquérito ao Emprego Científico e Docente no Ensino Superior
+EBS : European Business Statistics
+IPPSCAC  : Inquérito aos Preços na Produção de Serviços - Contabilidade, Auditoria, Consultoria fiscal e Consultoria para os negócios e gestão
+DCN/EP : Departamento de Contas Nacionais/Serviço de Estatísticas de Preços
+ESPC : Estatística de Salários por Profissão na Construção   
+NISS : Número de Identificação da Segurança Social
+PNT : Período Normal de Trabalho
+SS : Segurança Social
+ERC : Estatísticas do Registo Civil
+ERCom : Estatísticas do Registo Comercial
+ERP : Estatísticas do Registo Predial 
+CNCDA : Comissão Nacional de Combate ao Desperdício Alimentar 
+SIPACE : Sistema de Informação do Plano de Aprovação e Controlo dos Estabelecimentos
+EDA : Estatisticas do Desperdício Alimentar
+ERA : Estatísticas do Registo Automóvel
+ERCen : Estatísticas dos Registos Centrais 
+CP : Competências Profissionais
+ICOT : Inquérito às Condições de Vida, Origens e Trajetórias da População Residente   
+TeO : Trajectories and Origins Survey
+EPD : Emprego nas Plataformas Digitais
+DPE : Digital Platform Employment 
+TJUE : Tribunal de Justiça da União Europeia 
+EICR : Estatísticas da Identificação Criminal
+ECA : Estatísticas dos Centros de Arbitragem
+EICI : Estatísticas da Identificação Civil
+RNPC : Registo Nacional de Pessoas Coletivas 
+ETJUE : Estatísticas do Tribunal de Justiça da União Europeia
+FCPC  : Ficheiro Central de Pessoas Coletivas  
+EFA : Entrevistador função Acompanhamento
+EFR : Entrevistador função Recolha
+IGFIJ : Instituto de Gestão Financeira e de Infra-estruturas da Justiça
+DGSP  : Direção-Geral dos Serviços Prisionais
+DGRS  : Direção-geral de Reinserção Social
+IECINM : Inquérito ao Emprego no Centro Internacional de  Negócios da Madeira
+CINM : Centro Internacional de Negócios da Madeira
+TFUE  : Tratado sobre o Funcionamento da União Europeia
+LAMAS : Labour Market Statistics
+PIAAC : Programme for the International Assessment of Adult Competencies
+EWCS : European Working Conditions Surveys 
+DG EMPL  : Directorate-General for Employment, Social Affairs and Inclusion
+JRC  :  Joint Research Center
+RC/CGA : Relação Contributiva da Caixa Geral de Aposentações
+SVM : Support Vector Machine
+RBM : Remuneração bruta mensal média por trabalhador
+SAAS : Serviço de Atendimento e Acompanhamento Social 
+FPC : Formação Profissional Contínua
+FPI  : Formação Profissional Inicial
+FER : Fluxos Específicos de Resíduos
+OTP : ONE-TIME PASSWORD
+PPP : Parceria público-privada
+UAA : Utilized Agricultural Area
+QV : Qualidade de Vida
+STePP : Sistema de Informação de Transporte Público de Passageiros
+AMT : Autoridade da Mobilidade e dos Transportes
+CReMA : Classification of Resource Management Activities
+DEE/NEA : Departamento de Estatísticas Económicas / Núcleo de Estatísticas do Ambiente
+DG JUST : Directorate-General for Justice and Consumers
+DEFF : Design effect
+GBV SURVEY  : Gender-Based Violence Survey  
+BIS : Business Intelligence software
+S : Saúde
+PT : Portugal
+PAVMDV : Plano de Ação para a Prevenção e o Combate à Violência Contra as Mulheres e à Violência Doméstica
+ENIND : Estratégia Nacional para a Igualdade e a Não Discriminação
+DGFE : Direção-Geral da Fiscalização Económica
+IGAE : Inspeção-Geral das Atividades Económicas
+DGRSP : Direção-Geral de Reinserção e Serviços Prisionais 
+DIC : Departamento de Investigação Criminal
+PPJ : Processos na Polícia Judiciária
+SIIC : Sistema Integrado de Informação Criminal
+INML : Instituto Nacional de Medicina Legal, I.P.
+INMLCF : Instituto Nacional de Medicina Legal Ciências Forenses, I.P.
+ISDN : Integrated Services Digital Network
+S-HTTP : Secure Hypertext Transfer Protocol 
+RIV : Região de Informação de Voo
+VFQPRD : Vinho Frisante de Qualidade Prouzido em Regão Determinada
+IPPS : Índice de Preços na Produção de Serviços 
+SPPI : Services Producer Price Index
+IPPSAET : Inquérito aos Preços na Produção de Serviços - Arquitetura, Engenharia e Técnicas afins
+IMA : Inquérito Mensal à Aquicultura
+SPPI-FTR : Services Producer Price Index - Freight Transport by Road
+SPPI-AATM : Services Producer Price Index - Accounting, Auditing, Tax Consultancy and Management Consultancy Activities 
+SPPI-AET : Services Producer Price Index - Architectural, Engineering and Related Technical Consultancy 
+NPISH : Non-profit institutions serving households
+DSCEES : Direção de Serviços de Contas e Estatísticas Económicas Sectoriais
+CCJP : Comissão da Carteira Profissional de Jornalista
+SECTES : Secretaria de Estado da Ciência, Tecnologia e Ensino Superior
+DSS : Directors of Social Statistics
+SPAAGAR/VFF : Sistemas Públicos de Abastecimento de Água e Gestão de Águas Residuais / Vertente Física e de Funcionamento
+IACSB : Inquérito Anual à Caracterização do Saneamento Básico
+IAAGAR/VFF : Inquérito ao Abastecimento de Água e à Gestão de Águas Residuais/Vertente Física e de Funcionamento
+AGCAE : Agregados de Atividade Económica
+AGDIM : Agregados de Dimensão
+GET : Gabinete de Estatísticas do Turismo 
+CQEP : Centros para a Qualificação e o Ensino Profissional
+BR : BASIC RESEARCH
+IF : Investigação Fundamental
+ICGRAM : Inquérito aos Campos de Golfe da Região Autónoma da Madeira
+DH - TIVDS : Dificuldades Habitacionais - Transmissão Intergeracional de Vantagens e Desvantagens Sociais
+PET : Tomografia por Emissão de Positrões 
+DSR : Direção de Serviços da Região
+EEEA : Eficiência Energética do Edifício e do Alojamento  
+EGSS : Environmental Goods and Services Sector Accounts
+GT : Gross tonnage
+TEU :  Twenty-foot Equivalent Unit
+TPB : Tonelagem de porte bruto
+IFS : Integrated Farm Statistics
+PGI : PROTECTED GEOGRAPHICAL INDICATION
+GI : Geographical Indication
+PRODERAM : Programa de Desenvolvimento Rural da Região Autónoma da Madeira
+PRORURAL : Programa de Desenvolvimento Rural da Região Autónoma dos Açores
+PDR 2020 : Programa de Desenvolvimento Rural 2014-2020
+NDVI : Normalized Difference Vegetation Index
+ENUT : Escalão por Região ao nível da NUTS II
+ICHSRAM : Inquérito à Caracterização da Habitação Social da Região Autónoma da Madeira
+IHPC-CT : Índice Harmonizado de Preços no Consumidor com Taxas Constantes
+IRHS  : Inquérito às Rendas de Habitação Social
+iAP : Interoperabilidade da Administração Pública
+RER : Recibos Eletrónicos de Rendas
+NESLI : Network for the Collection and Adjudication of System-Level Descriptive Information on Educational Structures, Policies and Practices
+PNC : Plataforma de Registo de Novos Contratos
+XSD : XML Schema Definition
+DU : Documento Único
+IA : Inteligência artificial
+DR : Demonstração de resultados
+NEEF : Nem em Emprego, nem em Educação ou Formação
+NEET : Not in Education, Employment or Training
+BNE : Base Nacional de Edifícios
+ReiCO : Research and Innovation Careers Observatory
+ReICO : Research and Innovation Careers Observatory
+DM : Mensagem Direta
+RT : Retuitar
+MT : Tweet Modificado
+HT : Hashtag
+DR : Muito Longo; Não Li
+ICYMI : Caso Tenha Perdido
+FOMO : Medo de Perder Algo
+IMHO : Na Minha Opinião/Na Minha Humilde Opinião
+BTW : A Propósito
+NSFW : Não Seguro Para o Trabalho
+BRB : Volto Já
+TBT : Quinta-feira do Retorno ao Passado
+YOLO : Você Só Vive Uma Vez
+OMG : Oh Meu Deus
+AFAIK : Até Onde Sei
+open : Mensagens Diretas estão abertas
+SMH : Balançando a Cabeça
+LOL : Rindo Alto
+ICYDK : Caso Você Não Saiba
+FF : Sexta-feira de Indicações
+FTW : Para a Vitória
+HTH : Espero Que Isso Ajude
+U : Você
+AMA : Pergunte-me Qualquer Coisa
+B4 : Antes
+BF : Melhores Amigos
+BFF : Melhores Amigos para Sempre
+BTS : Nos Bastidores
+GG : Bom Jogo
+GR8 : Ótimo
+IDC : Eu Não Me Importo
+IRL : Na Vida Real
+JK : Brincadeira
+LMAO : Rindo Muito
+LMK : Me Avise
+OOTD : Look do Dia
+PLZ : Por Favor
+TTYL : Falo Contigo Mais Tarde
+TL : Linha do Tempo
+TBH : Para Ser Honesto
+PT : Portugal
+PT-BR : Português Brasileiro
+PT-PT : Português Europeu
+UE : União Europeia
+TUGA : Português
+BUE : Bom, Bonito e Barato
+CRI : Criança
+MPT : Movimento Partido do Tempo
+BFD : Bora lá Fazer
+BM : Bem
+PPL : Pessoal
+XF : Xau Fofinho
+GJ : Grande Jogo
+GANDA : Grande
+FDS : Fim de Semana
+BN : Boa Noite
+BJS : Beijos
+TXAU : Chau
+MT : Muito
+SQN : Só Que Não
+ASAP : Assim que Possível
+SDDS : Saudades
+NDR : Não Dá para Resistir
+XTA : Está
+TÁ : Está
+TA : Está
+K : Quê
+BLZ : Beleza
