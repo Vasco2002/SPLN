@@ -2293,6 +2293,7 @@ PLZ : Por Favor
 TTYL : Falo Contigo Mais Tarde
 TL : Linha do Tempo
 TBH : Para Ser Honesto
+FR : A Sério
 PT : Portugal
 PT-BR : Português Brasileiro
 PT-PT : Português Europeu
