@@ -2260,7 +2260,8 @@ HT : Hashtag
 DR : Muito Longo; Não Li
 ICYMI : Caso Tenha Perdido
 FOMO : Medo de Perder Algo
-IMHO : Na Minha Opinião/Na Minha Humilde Opinião
+IMO : Na Minha Opinião
+IMHO : Na Minha Humilde Opinião
 BTW : A Propósito
 NSFW : Não Seguro Para o Trabalho
 BRB : Volto Já
@@ -2294,19 +2295,15 @@ TTYL : Falo Contigo Mais Tarde
 TL : Linha do Tempo
 TBH : Para Ser Honesto
 FR : A Sério
+ASAP : Assim que Possível
 PT : Portugal
 PT-BR : Português Brasileiro
 PT-PT : Português Europeu
 UE : União Europeia
 TUGA : Português
-BUE : Bom, Bonito e Barato
+BUE : Muito
 CRI : Criança
-MPT : Movimento Partido do Tempo
-BFD : Bora lá Fazer
-BM : Bem
 PPL : Pessoal
-XF : Xau Fofinho
-GJ : Grande Jogo
 GANDA : Grande
 FDS : Fim de Semana
 BN : Boa Noite
@@ -2314,11 +2311,12 @@ BJS : Beijos
 TXAU : Chau
 MT : Muito
 SQN : Só Que Não
-ASAP : Assim que Possível
 SDDS : Saudades
 NDR : Não Dá para Resistir
 XTA : Está
 TÁ : Está
-TA : Está
 K : Quê
+KK : Rir
 BLZ : Beleza
+HJ : Hoje
+

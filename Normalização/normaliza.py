@@ -66,12 +66,14 @@ def clearOutput():
     
     print(f"O ficheiro {output_file_path} foi limpo.\n")
 
+# Carrega as palavras comuns a partir do ficheiro criado por parseWords
 def load_common_words():
-    # Carrega as palavras comuns a partir do arquivo
+    
     with open("out.txt", 'r', encoding='utf-8') as common_words_file:
         common_words = set(common_words_file.read().split())
     return common_words
 
+#Colca os acrónimosde uma frase por extenso
 def swapAcronyms(frase):
     with open(output_file_path, 'r', encoding='utf-8') as output:
         acronyms_info = output.read()
