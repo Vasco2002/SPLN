@@ -5,11 +5,7 @@ UE : União Europeia
 TUGA : Português
 BUE : Muito
 CRI : Criança
-MPT : Movimento Partido do Tempo
-BFD : Bora lá Fazer
-BM : Bem
 PPL : Pessoal
-XF : Xau Fofinho
 GANDA : Grande
 FDS : Fim de Semana
 BN : Boa Noite
