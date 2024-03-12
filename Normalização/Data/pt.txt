@@ -3,14 +3,13 @@ PT-BR : Português Brasileiro
 PT-PT : Português Europeu
 UE : União Europeia
 TUGA : Português
-BUE : Bom, Bonito e Barato
+BUE : Muito
 CRI : Criança
 MPT : Movimento Partido do Tempo
 BFD : Bora lá Fazer
 BM : Bem
 PPL : Pessoal
 XF : Xau Fofinho
-GJ : Grande Jogo
 GANDA : Grande
 FDS : Fim de Semana
 BN : Boa Noite
@@ -18,11 +17,9 @@ BJS : Beijos
 TXAU : Chau
 MT : Muito
 SQN : Só Que Não
-ASAP : Assim que Possível
 SDDS : Saudades
 NDR : Não Dá para Resistir
 XTA : Está
 TÁ : Está
-TA : Está
 K : Quê
 BLZ : Beleza
