@@ -17,6 +17,9 @@ def printFiles(filesList):
     filesListR =  [dir.replace(directoryPath,"") for dir in filesList]
     print(filesListR)
 
+def isEmoji(s):
+    return bool(re.match(r'[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F700-\U0001F77F\U0001F780-\U0001F7FF\U0001F800-\U0001F8FF\U0001F900-\U0001F9FF]', s))
+
 def leia(file,dataset):
     with open(file, 'r') as f:
         for line in f:
@@ -65,6 +68,16 @@ def lexPT(file,dataset):
 
                     #print(dataset[data[1]])
 
+def emojiCSV(file,dataset):
+    plus = ['kappa','pogchamp']
+    with open(file, mode='r') as file:
+        csv_reader = csv.reader(file)
+        next(csv_reader)
+        for row in csv_reader:
+            if isEmoji(row[1]) or row[1] in plus:
+                if row[1] not in dataset.keys():
+                    dataset[row[1]] = [row[1],float(row[2]),'EMOJI']
+
 def makeCSV(dataset,rowList):
     for pal in dataset:
         rowList.append(dataset[pal])
@@ -74,20 +87,35 @@ def makeCSV(dataset,rowList):
         for row in rowList:
             writer.writerow(row)
 
+def addCSV(dataset):
+    rowList = []
+    for pal in dataset:
+        rowList.append(dataset[pal])
+    
+    with open('sentiment.csv', 'a', newline='') as f:
+        writer = csv.writer(f)
+        for row in rowList:
+            writer.writerow(row)
+
 directoryPath = os.getcwd() + "/datasets"
 filesList = getFilesInDirectory(directoryPath)
 #printFiles(filesList)
 dataset = {}
+#dataEmoji = {}
 rowList = [["palavra","polaridade","tipo"]]
 
 for file in filesList:
     print(file.replace(directoryPath+"/",""))
     if 'vader_lexicon' in file:
         leia(file,dataset)   
-
-    if "lex_pt" in file:
+    elif "lex_pt" in file:
         lexPT(file,dataset)
+    elif "sentiment_lexicon" in file:
+        emojiCSV(file,dataset)
+        #emojiCSV(file,dataEmoji)
 
-pprint.pprint(dataset)
+#pprint.pprint(dataset)
+#pprint.pprint(dataEmoji)
 
 makeCSV(dataset,rowList)
+#addCSV(dataEmoji)
