@@ -22,11 +22,11 @@ def processar_dados(data, boosters, negadores):
             tipo = boosters[elemento]
         
         # Dar tipo NEG aos negadores
-        if elemento in negadores:
+        elif elemento in negadores:
             tipo = "NEG"
         
         # Dar tipo TERM aos termos e tirar o tipo TBD aos elementos que não têm tipo
-        if tipo == "TBD":
+        elif tipo == "TBD":
             if len(elemento.split()) > 1:
                 tipo = "TERM"
             else:

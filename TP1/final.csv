@@ -1335,7 +1335,7 @@ morrer,-2.9,
 morreu,-2.6,
 dificil,-0.4,
 dificuldades,-0.4,
-dificilmente,-1.4,NEG
+dificilmente,-1.4,DECR
 dificuldade,-1.3,
 digna,2.2,
 dignifica,2.0,
@@ -5778,51 +5778,51 @@ zzz,-1.2,
 ]:<,-2.5,
 ^<_<,1.4,
 ^urs,-2.8,
-nao estariam,0,NEG
-nao podia,0,NEG
-nao ousa,0,NEG
-nao tem,0,NEG
 nao faziam,0,NEG
+nao tem,0,NEG
+nao tinha,0,NEG
+nao podia,0,NEG
+nao sao,0,NEG
+nao poderei,0,NEG
+raramente,0,NEG
+nao deveriam,0,NEG
+nao eram,0,NEG
+nao estiveram,0,NEG
+nao faz,0,NEG
+nao deverao,0,NEG
+nao ousarao,0,NEG
+nao tenho,0,NEG
+nao farao,0,NEG
+nao fez,0,NEG
+nao terei,0,NEG
+nao sou,0,NEG
+nao conseguem,0,NEG
+nao ouso,0,NEG
+nao posso,0,NEG
+nao conseguiam,0,NEG
+nao fiz,0,NEG
+nao consegue,0,NEG
+nao farei,0,NEG
+nao poderia,0,NEG
+nao ousam,0,NEG
+nao conseguiriam,0,NEG
+nao devem,0,NEG
+nao conseguirei,0,NEG
+nao eh,0,NEG
+nao estariam,0,NEG
+nao estavam,0,NEG
+nao estarao,0,NEG
+nao ousariam,0,NEG
 nao seriam,0,NEG
 nao serao,0,NEG
-nao estiveram,0,NEG
-nao farao,0,NEG
-nao eram,0,NEG
-nao eh,0,NEG
-nao deveriam,0,NEG
-nao e,0,NEG
-nao deverao,0,NEG
-nao conseguirei,0,NEG
-nao sao,0,NEG
-nao estarao,0,NEG
-nao terei,0,NEG
-nao faz,0,NEG
-nao conseguiriam,0,NEG
-nao tenho,0,NEG
-nao estao,0,NEG
-nao posso,0,NEG
-raramente,0,NEG
-nao poderia,0,NEG
-nao sou,0,NEG
-nope,0,NEG
-nao devem,0,NEG
-nao estavam,0,NEG
-nao fiz,0,NEG
-nao farei,0,NEG
-nao ousariam,0,NEG
-nao fez,0,NEG
+nao ousa,0,NEG
 nao serei,0,NEG
 nao teria,0,NEG
-nao ouso,0,NEG
-nao conseguem,0,NEG
-nao ousarao,0,NEG
-nao conseguiam,0,NEG
-nao consegue,0,NEG
-nao tinha,0,NEG
-nao ousam,0,NEG
-nao poderei,0,NEG
-nao consigo,0,NEG
 nao devo,0,NEG
+nope,0,NEG
+nao e,0,NEG
+nao consigo,0,NEG
+nao estao,0,NEG
 absolutamente,0,INCR
 agitadamente,0,INCR
 altamente,0,INCR
