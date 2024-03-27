@@ -1,4 +1,3 @@
-
 ababelado	NEGATIVE
 ababelar	NEGATIVE
 abafadiço	NEGATIVE
@@ -3944,10 +3943,3 @@ cara-de-esfiha	NEGATIVE
 cara-de-quibe	NEGATIVE
 tupiniquim	NEGATIVE
 abutre	NEGATIVE
-
-
-
-
-
-
-
