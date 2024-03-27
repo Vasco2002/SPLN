@@ -56,3 +56,4 @@ um pouco DECR
 um pouqinho DECR
 um tantinho DECR
 um tanto DECR
+muito DECR
