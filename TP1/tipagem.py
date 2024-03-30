@@ -1,4 +1,8 @@
 import csv
+import spacy
+
+# Carregar o modelo do SpaCy para o idioma português
+nlp = spacy.load("pt_core_news_lg")
 
 def ler_csv(nome_arquivo):
     with open(nome_arquivo, 'r', newline='', encoding='utf-8') as arquivo:
@@ -26,7 +30,7 @@ def processar_dados(data, boosters, negadores):
             tipo = "NEG"
         
         # Dar tipo TERM aos termos e tirar o tipo TBD aos elementos que não têm tipo
-        elif tipo == "TBD":
+        elif tipo == "":
             if len(elemento.split()) > 1:
                 tipo = "TERM"
             else:
@@ -66,4 +70,14 @@ for elemento, tipo in elementos_booster.items():
     if elemento not in elementos_data:
         resultado.append([elemento, "0", tipo])
 
+# Escrever o arquivo final.csv
 escrever_csv('final.csv', resultado)
+
+# Lematizar os verbos no arquivo final.csv
+for linha in resultado:
+    frase = nlp(linha[0])
+    lema_frase = ' '.join([token.lemma_ for token in frase])
+    linha[0] = lema_frase
+
+# Escrever o arquivo final_lematizado.csv
+escrever_csv('final_lema.csv', resultado)
