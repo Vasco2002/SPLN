@@ -36,6 +36,9 @@ def processar_dados(data, boosters, negadores):
             else:
                 tipo = ""
         
+        elif tipo == "EMOJI":
+            tipo = "EMOJI"
+            
         linha_processada = [elemento, intensidade, tipo]
         resultado.append(linha_processada)
     

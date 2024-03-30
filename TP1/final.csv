@@ -9030,16 +9030,16 @@ kappa,0.4,EMOJI
 📀,-0.5,EMOJI
 🎉,0.9,EMOJI
 🌮,1.1,EMOJI
-nao dever,0,NEG
-nope,0,NEG
-nao ter,0,NEG
-nao estar,0,NEG
-nao poder,0,NEG
-nao ousar,0,NEG
 nao fazer,0,NEG
-nao ser,0,NEG
-raramente,0,NEG
+nope,0,NEG
+nao estar,0,NEG
+nao ousar,0,NEG
+nao ter,0,NEG
 nao conseguir,0,NEG
+nao ser,0,NEG
+nao dever,0,NEG
+raramente,0,NEG
+nao poder,0,NEG
 absolutamente,0,INCR
 agitadamente,0,INCR
 altamente,0,INCR
