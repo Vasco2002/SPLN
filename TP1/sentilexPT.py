@@ -28,11 +28,12 @@ from spacy import displacy
 def find_pos(word, text):
     posicoes = []
     inicio = 0
+    word = " " + word + " "
     while True:
         pos = text.find(word, inicio)
         if pos == -1:
             break
-        posicoes.append(pos)
+        posicoes.append(pos + 1)
         inicio = pos + 1
     return posicoes
 
@@ -144,7 +145,7 @@ def main():
 
     #Lista de palavras dentro do texto
     words_list = noAccentPharse.split(" ")
-
+    print("Words_List: " + str(words_list))
     #Contador de elementos que alteram a polaridade
     nr_pol = 0
 
@@ -238,7 +239,7 @@ def main():
                                 previous_word = ""
                             else:
                                 previous_word = before
-                        if previous_word + " " + pal not in termos and previous_word + " " + pal not in negtermos or before + " " + pal not in termos:
+                        if previous_word + " " + pal not in termos and previous_word + " " + pal not in negtermos:
                             if before in db["NEGT"].keys():
                                 nr_pol += 2
                                 polaridade = pals[pal]["Polaridade"] * -1
@@ -275,8 +276,10 @@ def main():
                                 nr_plus += 1
                             elif polaridade < 0:
                                 nr_minus += 1
-                        
-    result = pol / nr_pol
+    if nr_pol == 0:
+        result = 0
+    else:                    
+        result = pol / nr_pol
 
     if "-a" in cl.opt:
         print("\nNúmero de Palavras: " + str(len(remover_pontuacao(words_list))))
