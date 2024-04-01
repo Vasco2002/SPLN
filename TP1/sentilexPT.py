@@ -4,11 +4,13 @@ Name
     sentilexPT - Calculates words polarity in a text
 
 SYNOPSIS
-    sentilexPT [options] input_file
+    sentilexPT [options]
     option: 
         -a: Total number of words
         -n: Number of words with negative polarity
         -p: Number of words with positive polarity
+        -f [file_directory]: Calculates polarity of the file introduced
+        -t [phrase]: Calculates polarity of the phrase introduced
 
 DESCRIPTIONS
 
@@ -18,6 +20,8 @@ from jjcli import *
 import csv
 import unicodedata
 import spacy
+import sys
+import os
 from spacy import displacy
 
 #Devolve uma lista das posições onde essa palavra foi ocorrida no mesmo texto
@@ -52,7 +56,7 @@ def remover_pontuacao(lista_palavras):
 
 
 def main():
-    cl = clfilter("anp", doc=__doc__) ## Option values in cl.opt dictionary
+    cl = clfilter("anpf:t:", doc=__doc__) ## Option values in cl.opt dictionary
 
     nlp = spacy.load("pt_core_news_lg")
 
@@ -72,32 +76,46 @@ def main():
 
     for key in db.keys():
         for pal in db[key].keys():
-            db[key][pal]["Polaridade"] = db[key][pal]["Polaridade"]/db[key][pal]["occr"] 
+            db[key][pal]["Polaridade"] = db[key][pal]["Polaridade"]/db[key][pal]["occr"]
 
-    pharse = "Eu sou incrivelmente muito adoravel"#"nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" 
-    #"muito adoravel" <- é um TERM
-    #"nao querer" e "nao ser" <- é um NEGT
-    #"sorrir" <- Palavra normal
+    if "-f" in cl.opt and "-t" in cl.opt:
+        print("Por favor insira apenas uma das opções: '-f' ou '-t'.")
+        sys.exit()
+    elif "-f" in cl.opt:
+        path = cl.opt["-f"]     
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                pharse = f.read()
+        else:
+            print("A diretoria introduzida é inválida.")
+            sys.exit()
+    elif "-t" in cl.opt:
+        pharse = cl.opt["-t"]
+    else:
+        pharse = "Eu sou incrivelmente muito adoravel"#"nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" 
+        #"muito adoravel" <- é um TERM
+        #"nao querer" e "nao ser" <- é um NEGT
+        #"sorrir" <- Palavra normal
 
-    """Finalmente estreou a minha série favorita na Netflix! 😄
+        """Finalmente estreou a minha série favorita na Netflix! 😄
 
-    Sinceramente, não gosto muito de ir para eventos sociais muito movimentados, o barulho todo deixa-me desorientado.
+        Sinceramente, não gosto muito de ir para eventos sociais muito movimentados, o barulho todo deixa-me desorientado.
 
-    Adoro dias de chuva, faz com que eu não tenha de regar o jardim :D
+        Adoro dias de chuva, faz com que eu não tenha de regar o jardim :D
 
-    Alguém deixou uma caixa fechada à porta da minha casa, eu estou com um bocado de receio da abrir 💀
+        Alguém deixou uma caixa fechada à porta da minha casa, eu estou com um bocado de receio da abrir 💀
 
-    Wow, olha para o sol! Realmente hoje está um bom dia. 
+        Wow, olha para o sol! Realmente hoje está um bom dia. 
 
-    Foi um jogo difícil, mas no final, fiquei contente por o Famalicão ter ganho! Mais 3 pontos 💪💪💪
+        Foi um jogo difícil, mas no final, fiquei contente por o Famalicão ter ganho! Mais 3 pontos 💪💪💪
 
-    Hoje está um calor descomunal, e não tenho forma nenhuma de ir à praia :-((((((((
+        Hoje está um calor descomunal, e não tenho forma nenhuma de ir à praia :-((((((((
 
-    Esta semana estreia o novo filme do Homem-Aranha, já nem consigo dormir com o entusiasmo 😩
+        Esta semana estreia o novo filme do Homem-Aranha, já nem consigo dormir com o entusiasmo 😩
 
-    Acabei de ouvir uma das piores músicas que já ouvi na minha vida... Que coisa horrorosa
+        Acabei de ouvir uma das piores músicas que já ouvi na minha vida... Que coisa horrorosa
 
-    Ontem fui sair com os meus amigos. Estava mesmo a precisar, adoro aquela malta! 😍😍"""
+        Ontem fui sair com os meus amigos. Estava mesmo a precisar, adoro aquela malta! 😍😍"""
 
     #Pôr os verbos das frases com o seu lema
     doc = nlp(pharse)

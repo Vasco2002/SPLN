@@ -1,0 +1,28 @@
+[build-system]
+    requires = ["flit_core >=3.2,<4"]
+    build-backend = "flit_core.buildapi"
+
+    [project]
+    name = "sentilexPT"
+    authors = [
+        
+        {name = "Vasco Oliveira", email = "pg54269@alunos.uminho.pt"},
+        
+        {name = "João Loureiro", email = "pg53924@alunos.uminho.pt"},
+        
+        {name = "Luís Fernandes", email = "pg54019@alunos.uminho.pt"},
+        
+    ]
+    version = "0.0.1"
+    classifiers = [
+        "License :: OSI Approved :: MIT License",
+    ]
+    requires-python = ">=3.8"
+    dynamic = ["description"]
+    dependencies = [
+        "jjcli","spacy"
+    ]
+
+    [project.scripts]
+    sentilexPT = "sentilexPT:main"
+    
