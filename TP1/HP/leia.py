@@ -31,7 +31,7 @@ cores = [plt.cm.RdYlGn(norm(sentimento)) for sentimento in sentimentos]
 plt.bar(range(1, 18), sentimentos, color=cores, edgecolor='black')
 
 # Rótulos :P
-plt.title('Sentimento por Capítulo (Versão Portuguesa)')
+plt.title('Sentimento por Capítulo (Versão Leia)')
 plt.xlabel('Capítulo')
 plt.ylabel('Sentimento')
 plt.ylim(-1, 1)
@@ -44,4 +44,6 @@ cbar.set_label('Sentimento')
 
 # Mostrar o Histograma :O
 plt.grid(axis='y')
-plt.show()
+#plt.show()
+
+plt.savefig('leiaHP.png', dpi=300)
