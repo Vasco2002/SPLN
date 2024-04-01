@@ -24,7 +24,7 @@ for key in db.keys():
     for pal in db[key].keys():
         db[key][pal]["Polaridade"] = db[key][pal]["Polaridade"]/db[key][pal]["occr"] 
 
-pharse = "nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" 
+pharse = "Eu sou incrivelmente muito adoravel"#"nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" 
 #"muito adoravel" <- é um TERM
 #"nao querer" e "nao ser" <- é um NEGT
 #"sorrir" <- Palavra normal
@@ -82,6 +82,8 @@ def words_before(posicao, texto):
 
     if third == -1:
         return substring[:posicao]
+    if second == -1:
+        return substring[second+ 1:third]
 
     return substring[first + 1:second] + " " + substring[second+ 1:third]
 
@@ -123,31 +125,45 @@ for key in ["TERM","EMOJI",""]:
                 occurrences = find_pos(pal, noAccentPharse)
                 for pos in occurrences:
                     before = words_before(pos, noAccentPharse)
+                    split = before.split() # Pegar a última palavra da string 'before' após dividi-la
+                    if len(split) > 1:
+                        previous_word = split[1]
+                    else:
+                        if before == " ":
+                            previous_word = ""
+                        else:
+                            previous_word = before
                     if before in db["NEGT"].keys():
                         nr_pol += 2
                         polaridade = pals[pal]["Polaridade"] * -1
                         pol += polaridade
-                        print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * -1)) 
-                    elif before in db["NEG"].keys() and before not in negtermos:
+                        print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
+                    elif previous_word in db["NEG"].keys() and previous_word not in negtermos:
                         nr_pol += 2
                         polaridade = pals[pal]["Polaridade"] * -1
                         pol += polaridade
-                        print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * -1)) 
-                    elif before in db["INCR"].keys():
+                        print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
+                    elif before in db["INCR"].keys() or previous_word in db["INCR"].keys():
                         nr_pol += 2
                         polaridade = pals[pal]["Polaridade"] * 2
                         pol += polaridade
-                        print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * 2)) 
-                    elif before in db["DECR"].keys():
+                        if before in db["INCR"].keys():
+                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
+                        else: 
+                            print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
+                    elif before in db["DECR"].keys() or previous_word in db["DECR"].keys():
                         nr_pol = 2
                         polaridade = pals[pal]["Polaridade"] / 2
                         pol += polaridade
-                        print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] / 2)) 
+                        if before in db["INCR"].keys():
+                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
+                        else: 
+                            print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
                     else:
                         nr_pol = 1
                         polaridade = pals[pal]["Polaridade"]
                         pol += polaridade
-                        print("Palavra: " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"])) 
+                        print("Palavra: " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
                     
                     if polaridade > 0:
                         nr_plus += 1
@@ -159,11 +175,9 @@ for key in ["TERM","EMOJI",""]:
         for pal in pals.keys():
             if pal in pharse:
                 occr = pharse.count(pal)
-                #print(f"{pal} {occr} {pals[pal]["Polaridade"]}")
-                print("Emoji: " + pal + " NºOcorrência:" + str(occr) + " Polaridade:" + str(pals[pal]["Polaridade"]))
                 polaridade = (pals[pal]["Polaridade"] * occr)
                 pol += polaridade
-
+                print("Emoji: " + pal + " NºOcorrência:" + str(occr) + " Polaridade:" + str(polaridade))
                 if polaridade > 0:
                     nr_plus += occr
                 elif polaridade < 0:
@@ -176,7 +190,7 @@ for key in ["TERM","EMOJI",""]:
                 occurrences = find_pos(pal, noAccentPharse)
                 for pos in occurrences:
                     before = words_before(pos, noAccentPharse)
-                    split = before.split()  # Pegar a última palavra da string 'before' após dividi-la
+                    split = before.split()
                     if len(split) > 1:
                         previous_word = split[1]
                     else:
@@ -189,27 +203,33 @@ for key in ["TERM","EMOJI",""]:
                             nr_pol += 2
                             polaridade = pals[pal]["Polaridade"] * -1
                             pol += polaridade
-                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * -1)) 
-                        elif before in db["NEG"].keys() and before not in negtermos:
+                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
+                        elif previous_word in db["NEG"].keys() and previous_word not in negtermos:
                             nr_pol += 2
                             polaridade = pals[pal]["Polaridade"] * -1
                             pol += polaridade
-                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * -1)) 
-                        elif before in db["INCR"].keys():
+                            print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
+                        elif before in db["INCR"].keys() or previous_word in db["INCR"].keys():
                             nr_pol += 2
                             polaridade = pals[pal]["Polaridade"] * 2
                             pol += polaridade
-                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] * 2)) 
-                        elif before in db["DECR"].keys():
+                            if before in db["INCR"].keys():
+                                print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
+                            else: 
+                                print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade)) 
+                        elif before in db["DECR"].keys() or previous_word in db["DECR"].keys():
                             nr_pol += 2
                             polaridade = pals[pal]["Polaridade"] / 2
                             pol += polaridade
-                            print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"] / 2)) 
+                            if before in db["INCR"].keys():
+                                print("Palavra: " + before + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
+                            else: 
+                                print("Palavra: " + previous_word + " " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
                         else:
                             nr_pol += 1
                             polaridade = pals[pal]["Polaridade"]
                             pol += polaridade
-                            print("Palavra: " + pal + " Posição:" + str(pos) + " Polaridade:" + str(pals[pal]["Polaridade"]))
+                            print("Palavra: " + pal + " Posição:" + str(pos) + " Polaridade:" + str(polaridade))
 
                         if polaridade > 0:
                             nr_plus += 1
