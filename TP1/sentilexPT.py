@@ -92,7 +92,7 @@ def main():
     elif "-t" in cl.opt:
         pharse = cl.opt["-t"]
     else:
-        pharse = "Eu sou incrivelmente muito adoravel"#"nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" 
+        pharse = "nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" #"Eu sou incrivelmente muito adoravel"
         #"muito adoravel" <- é um TERM
         #"nao querer" e "nao ser" <- é um NEGT
         #"sorrir" <- Palavra normal
@@ -127,7 +127,6 @@ def main():
     noAccentPharse = normalized_str.encode('ascii', 'ignore').decode('utf-8')
 
     #print(noAccentPharse)
-
 
     #String com todos os termos dentro do texto
     termos = ""
@@ -239,7 +238,7 @@ def main():
                                 previous_word = ""
                             else:
                                 previous_word = before
-                        if previous_word + " " + pal not in termos and previous_word + " " + pal not in negtermos:
+                        if previous_word + " " + pal not in termos and previous_word + " " + pal not in negtermos or before + " " + pal not in termos:
                             if before in db["NEGT"].keys():
                                 nr_pol += 2
                                 polaridade = pals[pal]["Polaridade"] * -1
