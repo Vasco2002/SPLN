@@ -20,7 +20,7 @@
     requires-python = ">=3.8"
     dynamic = ["description"]
     dependencies = [
-        "jjcli","spacy"
+        "jjcli","spacy","vaderSentiment","leia-br","matplotlib"
     ]
 
     [project.scripts]

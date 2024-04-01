@@ -1,12 +1,12 @@
 import os
 import matplotlib.pyplot as plt
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from LeIA import SentimentIntensityAnalyzer
 from matplotlib.colors import Normalize
 from matplotlib.cm import ScalarMappable
 
 analyzer = SentimentIntensityAnalyzer()
 
-pasta_capitulos = "chapters"
+pasta_capitulos = "capitulos"
 
 sentimentos = []
 
@@ -31,7 +31,7 @@ cores = [plt.cm.RdYlGn(norm(sentimento)) for sentimento in sentimentos]
 plt.bar(range(1, 18), sentimentos, color=cores, edgecolor='black')
 
 # Rótulos :P
-plt.title('Sentimento por Capítulo (Versão Inglesa)')
+plt.title('Sentimento por Capítulo (Versão Portuguesa)')
 plt.xlabel('Capítulo')
 plt.ylabel('Sentimento')
 plt.ylim(-1, 1)
