@@ -93,30 +93,7 @@ def main():
     elif "-t" in cl.opt:
         pharse = cl.opt["-t"]
     else:
-        pharse = "nao quero sorrir." #"muito adoravel, Ele não ser muito adoravel" #"Eu sou incrivelmente muito adoravel"
-        #"muito adoravel" <- é um TERM
-        #"nao querer" e "nao ser" <- é um NEGT
-        #"sorrir" <- Palavra normal
-
-        """Finalmente estreou a minha série favorita na Netflix! 😄
-
-        Sinceramente, não gosto muito de ir para eventos sociais muito movimentados, o barulho todo deixa-me desorientado.
-
-        Adoro dias de chuva, faz com que eu não tenha de regar o jardim :D
-
-        Alguém deixou uma caixa fechada à porta da minha casa, eu estou com um bocado de receio da abrir 💀
-
-        Wow, olha para o sol! Realmente hoje está um bom dia. 
-
-        Foi um jogo difícil, mas no final, fiquei contente por o Famalicão ter ganho! Mais 3 pontos 💪💪💪
-
-        Hoje está um calor descomunal, e não tenho forma nenhuma de ir à praia :-((((((((
-
-        Esta semana estreia o novo filme do Homem-Aranha, já nem consigo dormir com o entusiasmo 😩
-
-        Acabei de ouvir uma das piores músicas que já ouvi na minha vida... Que coisa horrorosa
-
-        Ontem fui sair com os meus amigos. Estava mesmo a precisar, adoro aquela malta! 😍😍"""
+        pharse = "Eu não quero sorrir."
 
     #Pôr os verbos das frases com o seu lema
     doc = nlp(pharse)
