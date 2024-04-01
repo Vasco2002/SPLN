@@ -26,8 +26,9 @@ for key in db.keys():
 
 
 pharse = "Eu não querer sorrir" #"muito adoravel, Ele não ser muito adoravel" 
-#"muito adoravel" <- problema com termo
-#"nao quero" <- problema com NEG e NEGT
+#"muito adoravel" <- é um TERM
+#"nao querer" e "nao ser" <- é um NEGT
+#"sorrir" <- Palavra normal
 
 """Finalmente estreou a minha série favorita na Netflix! 😄
 
