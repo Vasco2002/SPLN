@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 '''
 Name 
-    sentilexPT - Calculates words polarity in a text
+    sentiPT - Calculates words polarity in a text
 
 SYNOPSIS
-    sentilexPT [options]
+    sentiPT [options]
     option: 
         -a: Total number of words
         -n: Number of words with negative polarity
@@ -93,7 +93,7 @@ def main():
     elif "-t" in cl.opt:
         pharse = cl.opt["-t"]
     else:
-        pharse = "Eu não quero sorrir."
+        pharse = "Ele não quer sorrir."
 
     #Pôr os verbos das frases com o seu lema
     doc = nlp(pharse)

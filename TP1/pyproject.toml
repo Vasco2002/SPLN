@@ -3,7 +3,7 @@
     build-backend = "flit_core.buildapi"
 
     [project]
-    name = "sentilexPT"
+    name = "sentiPT"
     authors = [
         
         {name = "Vasco Oliveira", email = "pg54269@alunos.uminho.pt"},
@@ -20,9 +20,9 @@
     requires-python = ">=3.8"
     dynamic = ["description"]
     dependencies = [
-        "jjcli","spacy","vaderSentiment","leia-br","matplotlib"
+        "jjcli","spacy"
     ]
 
     [project.scripts]
-    sentilexPT = "sentilexPT:main"
+    sentiPT = "sentiPT:main"
     
