@@ -78,4 +78,3 @@ results = search(query)
 for result in results:
     print(f"Similarity: {result['similarity']}")
     print(f"Document: {result['notes']}\n")
-
