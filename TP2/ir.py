@@ -5,6 +5,8 @@ from gensim.models import TfidfModel
 from gensim.corpora import Dictionary
 from gensim.similarities import SparseMatrixSimilarity
 
+query = "Tribunal"
+
 # Carregar stopwords em português
 # nltk.download('stopwords')
 stopwords = nltk.corpus.stopwords.words('portuguese')
@@ -38,7 +40,7 @@ index = SparseMatrixSimilarity(tfidf_model[corpus_bow], num_docs=len(corpus_bow)
 
 import json
 
-def search(query, top_n=10, output_file='data/IRS.json'):
+def search(query, top_n=100, output_file=f'similares/{query.replace(" ","_")}.json'):
     # Pré-processar a consulta
     query_tokenized = preprocess(query)
     
@@ -71,8 +73,6 @@ def search(query, top_n=10, output_file='data/IRS.json'):
     # Retornar os resultados
     return results
 
-# Exemplo de uso
-query = "IRS"
 results = search(query)
 
 for result in results:
