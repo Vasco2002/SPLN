@@ -1,6 +1,6 @@
 from transformers import pipeline
 
-tema = "IRS"
+tema = "Lei sobre o aborto"
 
 # Função para ler o contexto de um arquivo
 def ler_contexto(file_path):
@@ -8,7 +8,7 @@ def ler_contexto(file_path):
         return file.read()
 
 # Caminho para o arquivo de contexto
-file_path = 'information/IRS_info.txt'
+file_path = f'information/{tema.replace(" ","_")}_info.txt'
 
 # Ler o contexto do arquivo
 context = ler_contexto(file_path)
@@ -16,7 +16,6 @@ context = ler_contexto(file_path)
 # Inicializar o modelo de perguntas e respostas em português
 question_answerer = pipeline("question-answering", model="lfcc/bert-portuguese-squad")
 
-# Imprimir o contexto
 print("Tema:")
 print(tema)
 print("--------------------------")
@@ -33,4 +32,4 @@ while True:
 
     # Obter e imprimir a resposta
     result = question_answerer(question=pergunta, context=context)
-    print(f"Resposta: {result['answer']} | Score: {result['score']}")
+    print(f"Resposta: {result['answer']} | Score: {round(result['score']*100,2)}")

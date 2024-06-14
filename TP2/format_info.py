@@ -1,7 +1,7 @@
 import json
 import re
 
-query = "Tribunal"
+file_name = "Lei sobre o aborto"
 
 def extract_text(query):
     match = re.findall(r"INSERT INTO public\.\w+ VALUES \(\d+, \d+, .*, .*,", query)
@@ -14,14 +14,14 @@ def extract_text(query):
         # Extract everything past the first match
         if start_index != -1:
             result = query[start_index + len(match[0]):]
-            return result.replace("'", "").replace(")", "").replace(";", "").replace("(", "").replace("<div>", "").replace("</div>", "").replace("<p>","").replace("</p>","").replace("<a href=","").replace("</a>","").replace("\n","")
-        else:
+            return result.replace("'", "").replace(")", "").replace(";", "").replace("(", "").replace("<div>", "").replace("</div>", "").replace("<p>","").replace("</p>"," ").replace("<a href=","").replace("<div id=","").replace('\"doc_texto\"> ','').replace("</a>","").replace("\n","").replace("</span>","").replace("<span>","").replace("<br/>","").replace("<span class=\"bold\">","").replace("\"doc_texto\">","") + "\n"
+        else:           
             print("Match not found in the query string.")
     else:
         print("No match found.")
 
 # Read the JSON file
-with open('prepared_data/IRS_attributes.json', 'r') as file:
+with open(f'prepared_data/{file_name.replace(" ","_")}_attributes.json', 'r') as file:
     data = json.load(file)
 
 # Prepare the list to store extracted information
@@ -37,8 +37,8 @@ for key, queries in data.items():
             extracted_info.append(extract_text(query))
 
 # Write the extracted information to a new file
-with open(f'information/{query.replace("","_")}_info.txt', 'w') as file:
+with open(f'information/{file_name.replace(" ","_")}_info.txt', 'w') as file:
     for info in extracted_info:
         file.write(info + '\n')
 
-print("Information extraction complete. Check the 'information/IRS_info.txt' file.")
+print(f"Information extraction complete. Check the 'information/{file_name.replace(' ','_')}_info.txt' file.")

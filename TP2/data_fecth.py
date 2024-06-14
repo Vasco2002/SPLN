@@ -2,7 +2,9 @@ import re
 import json
 from icecream import ic
 
-with open("similares/IRS.json", "r", encoding='utf-8') as file:
+query = "Lei sobre o aborto"
+
+with open(f"similares/{query.replace(' ','_')}.json", "r", encoding='utf-8') as file:
     content = json.load(file)
 
 file = open("data/2024-04-07-DRE_dump.sql", "r", encoding='utf-8')
@@ -50,6 +52,6 @@ for line in file:
                sql_data[atual_ir].append(temp)
                temp = ""
 
-with open("IRS_attributes.json", "w", encoding='utf-8') as file:
+with open(f"prepared_data/{query.replace(' ','_')}_attributes.json", "w", encoding='utf-8') as file:
     file.write(json.dumps(sql_data, ensure_ascii=False))
    
