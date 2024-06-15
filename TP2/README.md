@@ -1,4 +1,4 @@
-# IR
+# Information retrieval (IR)
 
 O sistema de recuperação de informação (IR) tem como objetivo encontrar os documentos mais relevantes com base na pergunta desenvolvida pelo o usuário. Para esse efeito criamos a *script* `ir.py` que segue a metodologia seguinte: 
 
@@ -42,7 +42,7 @@ Depois de termos extraído todas as informações dos documentos, formatamos tod
 
 Para isso usamos *regex* para extraír exclusivamente os textos de cada documento relevante e usamos a função `replace` para remover os tais temas desnecessários para o contexto. O ficheiro de texto onde é guardado esta informação é adicionado à pasta `information`.
 
-# Q&A
+# Question and Answering (Q&A)
 
 Depois de termos coletado toda a informação relevante dos documentos e formatado essa informação, passamos para a fase do sistema de Perguntas e Respostas (Q&A).
 
