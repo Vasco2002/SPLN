@@ -40,4 +40,3 @@ def formatInfo(file_name):
         for info in extracted_info:
             file.write(info + '\n')
 
-    print(f"Information extraction complete. Check the 'information/{file_name.replace(' ','_')}_info.txt' file.")
