@@ -1,6 +1,5 @@
 import re
 import json
-from icecream import ic
 
 def dataFetch(query):
     with open(f"similares/{query.replace(' ','_')}.json", "r", encoding='utf-8') as file:
