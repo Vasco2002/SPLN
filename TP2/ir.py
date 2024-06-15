@@ -5,44 +5,42 @@ from gensim.models import TfidfModel
 from gensim.corpora import Dictionary
 from gensim.similarities import SparseMatrixSimilarity
 
-query = "Lei sobre o aborto"
-
-# Carregar stopwords em português
-# nltk.download('stopwords')
-stopwords = nltk.corpus.stopwords.words('portuguese')
-
-# Carregar dados do arquivo JSON
-with open('data/dre.json', 'r', encoding='utf-8') as f:
-    documents = json.load(f)
-
 # Função de pré-processamento
-def preprocess(line):
+def preprocess(line,stopwords):
     line = line.lower()
     tokens = tokenize(line)
     tokens = [token for token in tokens if token not in stopwords]
     return list(tokens)
 
-# Pré-processar os resumos dos documentos
-sentences = []
-notes = [doc['notes'] for doc in documents]
-for line in notes:
-    sentences.append(preprocess(line))
+def search(query, top_n=5):
+    output_file=f'similares/{query.replace(" ","_")}.json'
 
-# Criar dicionário e corpus BoW
-dictionary = Dictionary(sentences)
-corpus_bow = [dictionary.doc2bow(sent) for sent in sentences]
+    # Carregar stopwords em português
+    # nltk.download('stopwords')
+    stopwords = nltk.corpus.stopwords.words('portuguese')
 
-# Criar modelo TF-IDF
-tfidf_model = TfidfModel(corpus_bow, normalize=True)
+    # Carregar dados do arquivo JSON
+    with open('data/dre.json', 'r', encoding='utf-8') as f:
+        documents = json.load(f)
 
-# Calcular a similaridade
-index = SparseMatrixSimilarity(tfidf_model[corpus_bow], num_docs=len(corpus_bow), num_terms=len(dictionary))
+    # Pré-processar os resumos dos documentos
+    sentences = []
+    notes = [doc['notes'] for doc in documents]
+    for line in notes:
+        sentences.append(preprocess(line,stopwords))
 
-import json
+    # Criar dicionário e corpus BoW
+    dictionary = Dictionary(sentences)
+    corpus_bow = [dictionary.doc2bow(sent) for sent in sentences]
 
-def search(query, top_n=10, output_file=f'similares/{query.replace(" ","_")}.json'):
+    # Criar modelo TF-IDF
+    tfidf_model = TfidfModel(corpus_bow, normalize=True)
+
+    # Calcular a similaridade
+    index = SparseMatrixSimilarity(tfidf_model[corpus_bow], num_docs=len(corpus_bow), num_terms=len(dictionary))
+
     # Pré-processar a consulta
-    query_tokenized = preprocess(query)
+    query_tokenized = preprocess(query,stopwords)
     
     # Converter a consulta para a representação BoW usando o dicionário
     query_bow = dictionary.doc2bow(query_tokenized)
@@ -72,9 +70,3 @@ def search(query, top_n=10, output_file=f'similares/{query.replace(" ","_")}.jso
     
     # Retornar os resultados
     return results
-
-results = search(query)
-
-for result in results:
-    print(f"Similarity: {result['similarity']}")
-    print(f"Document: {result['notes']}\n")
