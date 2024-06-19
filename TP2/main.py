@@ -1,5 +1,5 @@
 import json
-import os  # For checking if file exists
+import os 
 
 from ir import search
 from data_fetch import dataFetch
@@ -28,10 +28,8 @@ while True:
     formatInfo(pergunta)
     resposta = answer(pergunta)
 
-    # Write question and answer to a JSON file
     output_file = "respostas.json"
     
-    # Read existing data from file, or initialize as empty list
     file_data = []
     if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
         with open(output_file, "r") as file:
@@ -40,10 +38,8 @@ while True:
             except json.JSONDecodeError:
                 print(f"Error loading JSON from {output_file}. Using empty list instead.")
 
-    # Append new question-answer pair
     file_data.append({"pergunta": pergunta, "resposta": resposta})
 
-    # Write back to file
     with open(output_file, "w") as file:
         json.dump(file_data, file, indent=4)
 
